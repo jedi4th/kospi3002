@@ -1,0 +1,58 @@
+name: KOSPI300 morning scan
+on:
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "0910 / 0920 / 0930 / 0950"
+        required: true
+        default: "0930"
+  schedule:
+    # GitHub Actions cron is UTC. Korea 09:10, 09:20, 09:30, 09:50.
+    - cron: "10 0 * * 1-5"
+    - cron: "20 0 * * 1-5"
+    - cron: "30 0 * * 1-5"
+    - cron: "50 0 * * 1-5"
+permissions:
+  contents: write
+concurrency:
+  group: kospi300-scan
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Determine slot
+        id: slot
+        shell: bash
+        run: |
+          if [ -n "${{ github.event.inputs.slot }}" ]; then
+            echo "slot=${{ github.event.inputs.slot }}" >> "$GITHUB_OUTPUT"
+          else
+            H=$(TZ=Asia/Seoul date +%H)
+            M=$(TZ=Asia/Seoul date +%M)
+            if [ "$M" -lt 15 ]; then S=0910
+            elif [ "$M" -lt 25 ]; then S=0920
+            elif [ "$M" -lt 40 ]; then S=0930
+            else S=0950
+            fi
+            echo "slot=$S" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Run scan
+        env:
+          SLOT: ${{ steps.slot.outputs.slot }}
+          NAVER_ID: ${{ secrets.NAVER_ID }}
+          NAVER_SECRET: ${{ secrets.NAVER_SECRET }}
+        run: python main.py --slot "$SLOT"
+      - name: Commit snapshot and report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || (git commit -m "KOSPI300 snapshot ${{ steps.slot.outputs.slot }}" && git push)
