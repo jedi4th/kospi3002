@@ -1,0 +1,6 @@
+Universe=300
+Quotes=297
+Quote missing=3
+Daily=298/300
+Minute=0/300
+Previous=0930
