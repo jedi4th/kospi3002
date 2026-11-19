@@ -1,11 +1,11 @@
 {
   "date": "20261119",
-  "time": "16:50:43",
+  "time": "16:59:24",
   "slot": "0950",
   "rows": [
     {
       "code": "005930",
-      "amount_eok": 23803.0,
+      "amount_eok": 23804.0,
       "change_pct": 1.1299435028248483,
       "amount_rank": 2,
       "price": 196900.0
@@ -19,7 +19,7 @@
     },
     {
       "code": "005935",
-      "amount_eok": 5108.0,
+      "amount_eok": 5117.0,
       "change_pct": -0.31645569620253333,
       "amount_rank": 7,
       "price": 157500.0
@@ -61,7 +61,7 @@
     },
     {
       "code": "105560",
-      "amount_eok": 765.0,
+      "amount_eok": 766.0,
       "change_pct": -2.237851662404089,
       "amount_rank": 34,
       "price": 152900.0
@@ -145,7 +145,7 @@
     },
     {
       "code": "329180",
-      "amount_eok": 372.0,
+      "amount_eok": 373.0,
       "change_pct": 2.3483365949119372,
       "amount_rank": 72,
       "price": 261500.0
@@ -194,7 +194,7 @@
     },
     {
       "code": "069500",
-      "amount_eok": 14642.0,
+      "amount_eok": 14644.0,
       "change_pct": 1.5491183879093207,
       "amount_rank": 3,
       "price": 80630.0
@@ -530,7 +530,7 @@
     },
     {
       "code": "102110",
-      "amount_eok": 4937.0,
+      "amount_eok": 4938.0,
       "change_pct": 1.3889765768041018,
       "amount_rank": 9,
       "price": 80295.0
@@ -782,7 +782,7 @@
     },
     {
       "code": "353200",
-      "amount_eok": 692.0,
+      "amount_eok": 693.0,
       "change_pct": 4.4334975369458185,
       "amount_rank": 40,
       "price": 84800.0
@@ -810,7 +810,7 @@
     },
     {
       "code": "091160",
-      "amount_eok": 1235.0,
+      "amount_eok": 1236.0,
       "change_pct": 4.172469500306386,
       "amount_rank": 19,
       "price": 93500.0
@@ -824,7 +824,7 @@
     },
     {
       "code": "122630",
-      "amount_eok": 12251.0,
+      "amount_eok": 12252.0,
       "change_pct": 3.0055147058823506,
       "amount_rank": 4,
       "price": 56035.0
@@ -1069,7 +1069,7 @@
     },
     {
       "code": "233740",
-      "amount_eok": 4998.0,
+      "amount_eok": 5000.0,
       "change_pct": 8.972691807542255,
       "amount_rank": 8,
       "price": 4190.0
