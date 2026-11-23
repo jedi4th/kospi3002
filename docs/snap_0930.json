@@ -1,2086 +1,2086 @@
 {
-  "date": "20261120",
-  "time": "09:33:37",
+  "date": "20261123",
+  "time": "16:40:25",
   "slot": "0930",
   "rows": [
     {
       "code": "005930",
-      "amount_eok": 3374.0,
-      "change_pct": -4.7739969527679005,
+      "amount_eok": 33016.0,
+      "change_pct": -3.0584380120152965,
       "amount_rank": 2,
-      "price": 187500.0
+      "price": 177500.0
     },
     {
       "code": "000660",
-      "amount_eok": 3624.0,
-      "change_pct": -6.4243448858833485,
+      "amount_eok": 41117.64825,
+      "change_pct": -2.515723270440251,
       "amount_rank": 1,
-      "price": 1107000.0
+      "price": 1085000.0
     },
     {
       "code": "005935",
-      "amount_eok": 866.0,
-      "change_pct": -5.3968253968254,
-      "amount_rank": 8,
-      "price": 149000.0
+      "amount_eok": 5544.0,
+      "change_pct": -2.2176022176022214,
+      "amount_rank": 11,
+      "price": 141100.0
     },
     {
       "code": "402340",
-      "amount_eok": 335.0,
-      "change_pct": -5.412719891745599,
+      "amount_eok": 4258.0,
+      "change_pct": 0.2954209748892156,
       "amount_rank": 15,
-      "price": 699000.0
+      "price": 679000.0
     },
     {
       "code": "373220",
-      "amount_eok": 146.0,
-      "change_pct": -1.1589403973509937,
-      "amount_rank": 31,
-      "price": 298500.0
+      "amount_eok": 806.0,
+      "change_pct": -3.171953255425708,
+      "amount_rank": 40,
+      "price": 290000.0
     },
     {
       "code": "207940",
-      "amount_eok": 59.9,
-      "change_pct": -1.6000000000000014,
-      "amount_rank": 67,
-      "price": 1353000.0
+      "amount_eok": 616.0,
+      "change_pct": -5.092250922509223,
+      "amount_rank": 52,
+      "price": 1286000.0
     },
     {
       "code": "009150",
-      "amount_eok": 1357.0,
-      "change_pct": -8.813559322033903,
-      "amount_rank": 6,
-      "price": 807000.0
+      "amount_eok": 6675.0,
+      "change_pct": 0.9043927648578753,
+      "amount_rank": 9,
+      "price": 781000.0
     },
     {
       "code": "105560",
-      "amount_eok": 209.0,
-      "change_pct": 1.1772400261608862,
-      "amount_rank": 24,
-      "price": 154700.0
+      "amount_eok": 1680.0,
+      "change_pct": -5.38057742782152,
+      "amount_rank": 22,
+      "price": 144200.0
     },
     {
       "code": "005380",
-      "amount_eok": 102.0,
-      "change_pct": -2.61682242990654,
+      "amount_eok": 799.0,
+      "change_pct": -3.529411764705881,
       "amount_rank": 41,
-      "price": 260500.0
+      "price": 246000.0
     },
     {
       "code": "068270",
-      "amount_eok": 79.3,
-      "change_pct": -0.9302325581395321,
-      "amount_rank": 54,
-      "price": 213000.0
+      "amount_eok": 891.0,
+      "change_pct": -5.39906103286385,
+      "amount_rank": 36,
+      "price": 201500.0
     },
     {
       "code": "032830",
-      "amount_eok": 63.7,
-      "change_pct": -4.109589041095896,
-      "amount_rank": 62,
-      "price": 245000.0
+      "amount_eok": 565.0,
+      "change_pct": -5.648535564853551,
+      "amount_rank": 58,
+      "price": 225500.0
     },
     {
       "code": "028260",
-      "amount_eok": 50.1,
-      "change_pct": -4.036697247706423,
-      "amount_rank": 76,
-      "price": 261500.0
+      "amount_eok": 653.0,
+      "change_pct": -4.651162790697672,
+      "amount_rank": 48,
+      "price": 246000.0
     },
     {
       "code": "055550",
-      "amount_eok": 111.0,
-      "change_pct": 1.7523364485981352,
-      "amount_rank": 37,
-      "price": 87100.0
+      "amount_eok": 588.0,
+      "change_pct": -4.524361948955913,
+      "amount_rank": 55,
+      "price": 82300.0
     },
     {
       "code": "000270",
-      "amount_eok": 102.0,
-      "change_pct": -1.967213114754096,
-      "amount_rank": 40,
-      "price": 89700.0
-    },
-    {
-      "code": "034730",
-      "amount_eok": 54.2,
-      "change_pct": -4.964539007092195,
-      "amount_rank": 73,
-      "price": 469000.0
-    },
-    {
-      "code": "086790",
-      "amount_eok": 90.8,
-      "change_pct": 1.4527845036319542,
-      "amount_rank": 47,
-      "price": 125700.0
-    },
-    {
-      "code": "006400",
-      "amount_eok": 281.0,
-      "change_pct": -5.36756126021003,
-      "amount_rank": 19,
-      "price": 405500.0
-    },
-    {
-      "code": "012450",
-      "amount_eok": 71.9,
-      "change_pct": -3.3280507131537296,
-      "amount_rank": 56,
-      "price": 610000.0
-    },
-    {
-      "code": "012330",
-      "amount_eok": 78.3,
-      "change_pct": -2.196193265007318,
-      "amount_rank": 55,
-      "price": 334000.0
-    },
-    {
-      "code": "034020",
-      "amount_eok": 126.0,
-      "change_pct": -5.365296803652964,
-      "amount_rank": 34,
-      "price": 41450.0
-    },
-    {
-      "code": "329180",
-      "amount_eok": 46.1,
-      "change_pct": -4.206500956022941,
-      "amount_rank": 82,
-      "price": 250500.0
-    },
-    {
-      "code": "035420",
-      "amount_eok": 91.6,
-      "change_pct": -1.5448603683897777,
-      "amount_rank": 46,
-      "price": 165700.0
-    },
-    {
-      "code": "316140",
-      "amount_eok": 64.0,
-      "change_pct": 1.8897637795275646,
-      "amount_rank": 59,
-      "price": 32350.0
-    },
-    {
-      "code": "000810",
-      "amount_eok": 62.4,
-      "change_pct": -0.19047619047618536,
-      "amount_rank": 64,
-      "price": 524000.0
-    },
-    {
-      "code": "066570",
-      "amount_eok": 106.0,
-      "change_pct": -1.9867549668874163,
-      "amount_rank": 38,
-      "price": 133200.0
-    },
-    {
-      "code": "138040",
-      "amount_eok": 31.8,
-      "change_pct": 2.5559105431310014,
-      "amount_rank": 104,
-      "price": 128400.0
-    },
-    {
-      "code": "011200",
-      "amount_eok": 14.6,
-      "change_pct": -1.1086474501108667,
-      "amount_rank": 154,
-      "price": 22300.0
-    },
-    {
-      "code": "005490",
-      "amount_eok": 88.6,
-      "change_pct": -1.9267822736030782,
-      "amount_rank": 49,
-      "price": 254500.0
-    },
-    {
-      "code": "069500",
-      "amount_eok": 1871.0,
-      "change_pct": -4.111372938112368,
-      "amount_rank": 4,
-      "price": 77315.0
-    },
-    {
-      "code": "360750",
-      "amount_eok": 443.0,
-      "change_pct": -2.64344262295082,
-      "amount_rank": 11,
-      "price": 23755.0
-    },
-    {
-      "code": "033780",
-      "amount_eok": 41.9,
-      "change_pct": 0.7123287671232825,
-      "amount_rank": 85,
-      "price": 183800.0
-    },
-    {
-      "code": "010120",
-      "amount_eok": 64.0,
-      "change_pct": -6.622516556291391,
-      "amount_rank": 60,
-      "price": 112800.0
-    },
-    {
-      "code": "015760",
-      "amount_eok": 97.9,
-      "change_pct": 2.17821782178218,
-      "amount_rank": 45,
-      "price": 25800.0
-    },
-    {
-      "code": "018260",
-      "amount_eok": 63.4,
-      "change_pct": -2.33100233100233,
-      "amount_rank": 63,
-      "price": 209500.0
-    },
-    {
-      "code": "010130",
-      "amount_eok": 7.52,
-      "change_pct": -3.1565656565656575,
-      "amount_rank": 198,
-      "price": 767000.0
-    },
-    {
-      "code": "096770",
-      "amount_eok": 81.5,
-      "change_pct": -3.255340793489314,
-      "amount_rank": 51,
-      "price": 95100.0
-    },
-    {
-      "code": "009540",
-      "amount_eok": 16.1,
-      "change_pct": -2.813852813852813,
-      "amount_rank": 150,
-      "price": 224500.0
-    },
-    {
-      "code": "298040",
-      "amount_eok": 48.6,
-      "change_pct": -5.7349665924276145,
-      "amount_rank": 78,
-      "price": 1693000.0
-    },
-    {
-      "code": "017670",
-      "amount_eok": 283.0,
-      "change_pct": -8.85286783042394,
-      "amount_rank": 18,
-      "price": 73100.0
-    },
-    {
-      "code": "086280",
-      "amount_eok": 50.1,
-      "change_pct": 2.7027027027026973,
-      "amount_rank": 75,
-      "price": 209000.0
-    },
-    {
-      "code": "180640",
-      "amount_eok": 281.0,
-      "change_pct": 7.870370370370372,
-      "amount_rank": 20,
-      "price": 233000.0
-    },
-    {
-      "code": "024110",
-      "amount_eok": 12.4,
-      "change_pct": 0.6240249609984483,
-      "amount_rank": 164,
-      "price": 19350.0
-    },
-    {
-      "code": "042700",
-      "amount_eok": 156.0,
-      "change_pct": -7.1925754060324865,
-      "amount_rank": 29,
-      "price": 160000.0
-    },
-    {
-      "code": "267260",
-      "amount_eok": 56.9,
-      "change_pct": -3.2490974729241895,
-      "amount_rank": 70,
-      "price": 402000.0
-    },
-    {
-      "code": "051910",
-      "amount_eok": 56.8,
-      "change_pct": -2.3866348448687402,
-      "amount_rank": 72,
-      "price": 204500.0
-    },
-    {
-      "code": "003670",
-      "amount_eok": 46.9,
-      "change_pct": -2.9518072289156594,
-      "amount_rank": 79,
-      "price": 161100.0
-    },
-    {
-      "code": "035720",
-      "amount_eok": 39.8,
-      "change_pct": -0.6269592476489061,
-      "amount_rank": 89,
-      "price": 31700.0
-    },
-    {
-      "code": "010140",
-      "amount_eok": 56.8,
-      "change_pct": -4.210526315789476,
-      "amount_rank": 71,
-      "price": 15470.0
-    },
-    {
-      "code": "003550",
-      "amount_eok": 18.0,
-      "change_pct": -0.22148394241418012,
-      "amount_rank": 137,
-      "price": 90100.0
-    },
-    {
-      "code": "042660",
-      "amount_eok": 49.0,
-      "change_pct": -4.555555555555557,
-      "amount_rank": 77,
-      "price": 42950.0
-    },
-    {
-      "code": "488770",
-      "amount_eok": 116.0,
-      "change_pct": 0.028244598220594774,
-      "amount_rank": 35,
-      "price": 106245.0
-    },
-    {
-      "code": "028050",
-      "amount_eok": 201.0,
-      "change_pct": -4.022082018927442,
-      "amount_rank": 25,
-      "price": 60850.0
-    },
-    {
-      "code": "003490",
-      "amount_eok": 116.0,
-      "change_pct": -2.3112480739599373,
-      "amount_rank": 36,
-      "price": 31700.0
-    },
-    {
-      "code": "030200",
-      "amount_eok": 38.3,
-      "change_pct": -3.382663847780132,
-      "amount_rank": 92,
-      "price": 45700.0
-    },
-    {
-      "code": "010950",
-      "amount_eok": 25.2,
-      "change_pct": -1.5841584158415856,
-      "amount_rank": 118,
-      "price": 99400.0
-    },
-    {
-      "code": "005830",
-      "amount_eok": 21.1,
-      "change_pct": -0.8308605341246333,
-      "amount_rank": 126,
-      "price": 167100.0
-    },
-    {
-      "code": "133690",
-      "amount_eok": 340.0,
-      "change_pct": -3.8725565645682636,
-      "amount_rank": 14,
-      "price": 156135.0
-    },
-    {
-      "code": "006800",
-      "amount_eok": 35.0,
-      "change_pct": -3.432835820895519,
-      "amount_rank": 97,
-      "price": 19410.0
-    },
-    {
-      "code": "323410",
-      "amount_eok": 16.0,
-      "change_pct": 0.5827505827505908,
-      "amount_rank": 151,
-      "price": 21575.0
-    },
-    {
-      "code": "047810",
-      "amount_eok": 20.2,
-      "change_pct": -1.1549566891241536,
-      "amount_rank": 130,
-      "price": 102700.0
-    },
-    {
-      "code": "379800",
-      "amount_eok": 306.0,
-      "change_pct": -2.644665461121154,
-      "amount_rank": 16,
-      "price": 21535.0
-    },
-    {
-      "code": "003230",
-      "amount_eok": 35.4,
-      "change_pct": 0.23999999999999577,
-      "amount_rank": 95,
-      "price": 1253000.0
-    },
-    {
-      "code": "259960",
-      "amount_eok": 17.5,
-      "change_pct": 2.486047691527138,
-      "amount_rank": 139,
-      "price": 202000.0
-    },
-    {
-      "code": "272210",
-      "amount_eok": 32.3,
-      "change_pct": -1.732925586136591,
-      "amount_rank": 102,
-      "price": 48200.0
-    },
-    {
-      "code": "278470",
-      "amount_eok": 99.1,
-      "change_pct": -1.4373716632443578,
+      "amount_eok": 791.0,
+      "change_pct": -2.3809523809523836,
       "amount_rank": 42,
-      "price": 240000.0
-    },
-    {
-      "code": "379810",
-      "amount_eok": 284.0,
-      "change_pct": -3.9142974866089864,
-      "amount_rank": 17,
-      "price": 23320.0
-    },
-    {
-      "code": "267250",
-      "amount_eok": 16.6,
-      "change_pct": -4.403048264182896,
-      "amount_rank": 145,
-      "price": 112900.0
-    },
-    {
-      "code": "001260",
-      "amount_eok": 0.22,
-      "change_pct": -1.4666666666666717,
-      "amount_rank": 286,
-      "price": 7390.0
-    },
-    {
-      "code": "005940",
-      "amount_eok": 6.8,
-      "change_pct": -1.2820512820512775,
-      "amount_rank": 200,
-      "price": 23100.0
-    },
-    {
-      "code": "000720",
-      "amount_eok": 41.1,
-      "change_pct": -6.037735849056602,
-      "amount_rank": 87,
-      "price": 74700.0
-    },
-    {
-      "code": "047050",
-      "amount_eok": 16.5,
-      "change_pct": -1.9689119170984481,
-      "amount_rank": 147,
-      "price": 47300.0
-    },
-    {
-      "code": "090430",
-      "amount_eok": 46.4,
-      "change_pct": -0.1403508771929851,
-      "amount_rank": 80,
-      "price": 142300.0
-    },
-    {
-      "code": "307950",
-      "amount_eok": 27.8,
-      "change_pct": -4.051863857374394,
-      "amount_rank": 112,
-      "price": 296000.0
-    },
-    {
-      "code": "443060",
-      "amount_eok": 6.54,
-      "change_pct": -2.607278652906031,
-      "amount_rank": 203,
-      "price": 179300.0
-    },
-    {
-      "code": "079550",
-      "amount_eok": 38.3,
-      "change_pct": -2.695417789757415,
-      "amount_rank": 93,
-      "price": 361000.0
-    },
-    {
-      "code": "102110",
-      "amount_eok": 510.0,
-      "change_pct": -3.991531228594558,
-      "amount_rank": 10,
-      "price": 77090.0
-    },
-    {
-      "code": "352820",
-      "amount_eok": 196.0,
-      "change_pct": -1.742344244984162,
-      "amount_rank": 26,
-      "price": 186100.0
-    },
-    {
-      "code": "000150",
-      "amount_eok": 98.0,
-      "change_pct": -10.620915032679735,
-      "amount_rank": 44,
-      "price": 547000.0
-    },
-    {
-      "code": "161390",
-      "amount_eok": 32.1,
-      "change_pct": 0.0,
-      "amount_rank": 103,
-      "price": 63100.0
-    },
-    {
-      "code": "021240",
-      "amount_eok": 12.6,
-      "change_pct": 0.0,
-      "amount_rank": 163,
-      "price": 107300.0
-    },
-    {
-      "code": "078930",
-      "amount_eok": 14.3,
-      "change_pct": -4.192355117139335,
-      "amount_rank": 155,
-      "price": 77700.0
-    },
-    {
-      "code": "064400",
-      "amount_eok": 80.7,
-      "change_pct": -2.533333333333332,
-      "amount_rank": 53,
-      "price": 73100.0
-    },
-    {
-      "code": "071050",
-      "amount_eok": 11.2,
-      "change_pct": -0.7987220447284393,
-      "amount_rank": 171,
-      "price": 124200.0
-    },
-    {
-      "code": "064350",
-      "amount_eok": 51.6,
-      "change_pct": -5.1051051051051015,
-      "amount_rank": 74,
-      "price": 63200.0
-    },
-    {
-      "code": "326030",
-      "amount_eok": 12.3,
-      "change_pct": -1.148105625717566,
-      "amount_rank": 166,
       "price": 86100.0
     },
     {
-      "code": "011070",
-      "amount_eok": 69.3,
-      "change_pct": -6.825938566552903,
-      "amount_rank": 57,
-      "price": 273000.0
-    },
-    {
-      "code": "459580",
-      "amount_eok": 997.0,
-      "change_pct": 0.00929838998378063,
-      "amount_rank": 7,
-      "price": 1075555.0
-    },
-    {
-      "code": "032640",
-      "amount_eok": 10.9,
-      "change_pct": -0.06587615283267789,
-      "amount_rank": 172,
-      "price": 15170.0
-    },
-    {
-      "code": "016360",
-      "amount_eok": 16.7,
-      "change_pct": -0.41551246537395725,
-      "amount_rank": 144,
-      "price": 71900.0
-    },
-    {
-      "code": "396500",
-      "amount_eok": 366.0,
-      "change_pct": -6.119346256176361,
-      "amount_rank": 13,
-      "price": 24700.0
-    },
-    {
-      "code": "000500",
-      "amount_eok": 20.3,
-      "change_pct": -5.034324942791757,
-      "amount_rank": 128,
-      "price": 207500.0
-    },
-    {
-      "code": "000100",
-      "amount_eok": 8.31,
-      "change_pct": -1.2300123001230068,
-      "amount_rank": 189,
-      "price": 80300.0
-    },
-    {
-      "code": "278530",
-      "amount_eok": 16.7,
-      "change_pct": -4.002736914129324,
-      "amount_rank": 143,
-      "price": 28060.0
-    },
-    {
-      "code": "007660",
-      "amount_eok": 240.0,
-      "change_pct": -12.409638554216873,
-      "amount_rank": 22,
-      "price": 72700.0
-    },
-    {
-      "code": "128940",
-      "amount_eok": 38.8,
-      "change_pct": -1.3033175355450233,
-      "amount_rank": 91,
-      "price": 416500.0
-    },
-    {
-      "code": "006260",
-      "amount_eok": 26.1,
-      "change_pct": -6.428571428571428,
-      "amount_rank": 115,
-      "price": 170300.0
-    },
-    {
-      "code": "039490",
-      "amount_eok": 16.4,
-      "change_pct": 0.2569373072970116,
-      "amount_rank": 148,
-      "price": 195100.0
-    },
-    {
-      "code": "005387",
-      "amount_eok": 24.0,
-      "change_pct": 0.27681660899654403,
-      "amount_rank": 119,
-      "price": 144900.0
-    },
-    {
-      "code": "241560",
-      "amount_eok": 9.09,
-      "change_pct": -2.316602316602312,
-      "amount_rank": 182,
-      "price": 50600.0
-    },
-    {
-      "code": "175330",
-      "amount_eok": 16.6,
-      "change_pct": 1.7543859649122862,
-      "amount_rank": 146,
-      "price": 26100.0
-    },
-    {
-      "code": "498400",
-      "amount_eok": 177.0,
-      "change_pct": -3.7568306010928976,
-      "amount_rank": 27,
-      "price": 14090.0
-    },
-    {
-      "code": "271560",
-      "amount_eok": 8.3,
-      "change_pct": 1.606086221470826,
-      "amount_rank": 190,
-      "price": 120200.0
-    },
-    {
-      "code": "088980",
-      "amount_eok": 16.2,
-      "change_pct": 1.455301455301461,
-      "amount_rank": 149,
-      "price": 9760.0
-    },
-    {
-      "code": "377300",
-      "amount_eok": 5.57,
-      "change_pct": -0.5102040816326481,
-      "amount_rank": 212,
-      "price": 34125.0
-    },
-    {
-      "code": "009830",
-      "amount_eok": 86.8,
-      "change_pct": -4.038461538461535,
-      "amount_rank": 50,
-      "price": 19960.0
-    },
-    {
-      "code": "381180",
-      "amount_eok": 88.8,
-      "change_pct": -5.87892898719441,
-      "amount_rank": 48,
-      "price": 32340.0
-    },
-    {
-      "code": "458730",
-      "amount_eok": 43.0,
-      "change_pct": -1.1282051282051286,
-      "amount_rank": 83,
-      "price": 14460.0
-    },
-    {
-      "code": "047040",
-      "amount_eok": 62.1,
-      "change_pct": -6.625441696113077,
-      "amount_rank": 66,
-      "price": 10570.0
-    },
-    {
-      "code": "000430",
-      "amount_eok": 0.08,
-      "change_pct": -1.0204081632653073,
-      "amount_rank": 289,
-      "price": 3880.0
-    },
-    {
-      "code": "138930",
-      "amount_eok": 11.7,
-      "change_pct": 0.3012048192771122,
-      "amount_rank": 169,
-      "price": 13320.0
-    },
-    {
-      "code": "036570",
-      "amount_eok": 23.0,
-      "change_pct": 2.3356871265616475,
-      "amount_rank": 122,
-      "price": 188400.0
-    },
-    {
-      "code": "012750",
-      "amount_eok": 7.97,
-      "change_pct": 0.5671077504725952,
-      "amount_rank": 195,
-      "price": 106400.0
-    },
-    {
-      "code": "229200",
-      "amount_eok": 807.0,
-      "change_pct": -4.946996466431097,
-      "amount_rank": 9,
-      "price": 10760.0
-    },
-    {
-      "code": "267270",
-      "amount_eok": 81.1,
-      "change_pct": -10.733844468784227,
-      "amount_rank": 52,
-      "price": 81500.0
-    },
-    {
-      "code": "051900",
-      "amount_eok": 17.5,
-      "change_pct": 0.39447731755424265,
-      "amount_rank": 140,
-      "price": 254500.0
-    },
-    {
-      "code": "357870",
-      "amount_eok": 17.4,
-      "change_pct": 0.008560178051708611,
-      "amount_rank": 141,
-      "price": 58415.0
-    },
-    {
-      "code": "353200",
-      "amount_eok": 209.0,
-      "change_pct": -10.49528301886793,
-      "amount_rank": 23,
-      "price": 75900.0
-    },
-    {
-      "code": "004020",
-      "amount_eok": 8.11,
-      "change_pct": -1.2280701754386003,
-      "amount_rank": 192,
-      "price": 28150.0
-    },
-    {
-      "code": "091160",
-      "amount_eok": 366.0,
-      "change_pct": -6.973262032085559,
-      "amount_rank": 12,
-      "price": 86980.0
-    },
-    {
-      "code": "360200",
-      "amount_eok": 26.3,
-      "change_pct": -2.6353131968376187,
-      "amount_rank": 114,
-      "price": 24015.0
-    },
-    {
-      "code": "455890",
-      "amount_eok": 6.19,
-      "change_pct": 0.012520121624048919,
-      "amount_rank": 208,
-      "price": 55917.0
-    },
-    {
-      "code": "122630",
-      "amount_eok": 2105.0,
-      "change_pct": -8.200231997858475,
-      "amount_rank": 3,
-      "price": 51440.0
-    },
-    {
-      "code": "000880",
-      "amount_eok": 8.62,
-      "change_pct": -5.413105413105413,
-      "amount_rank": 187,
-      "price": 66400.0
-    },
-    {
-      "code": "036460",
-      "amount_eok": 4.06,
-      "change_pct": -0.1310615989515096,
-      "amount_rank": 224,
-      "price": 38100.0
-    },
-    {
-      "code": "034220",
-      "amount_eok": 18.8,
-      "change_pct": -1.480959097320167,
-      "amount_rank": 134,
-      "price": 6985.0
-    },
-    {
-      "code": "423160",
-      "amount_eok": 31.7,
-      "change_pct": 0.02255299954894152,
-      "amount_rank": 105,
-      "price": 110875.0
-    },
-    {
-      "code": "008930",
-      "amount_eok": 3.66,
-      "change_pct": -1.5625,
-      "amount_rank": 228,
-      "price": 50400.0
-    },
-    {
-      "code": "001620",
-      "amount_eok": 0.00400044,
-      "change_pct": -0.9095502779181364,
-      "amount_rank": 294,
-      "price": 1961.0
-    },
-    {
-      "code": "001040",
-      "amount_eok": 9.84,
-      "change_pct": 2.3642732049036885,
-      "amount_rank": 177,
-      "price": 116900.0
-    },
-    {
-      "code": "011790",
-      "amount_eok": 9.36,
-      "change_pct": -4.084507042253516,
-      "amount_rank": 180,
-      "price": 68100.0
-    },
-    {
-      "code": "001440",
-      "amount_eok": 35.4,
-      "change_pct": -4.6883618312189785,
-      "amount_rank": 96,
-      "price": 17280.0
-    },
-    {
-      "code": "381170",
-      "amount_eok": 31.2,
-      "change_pct": -3.962163126896301,
-      "amount_rank": 106,
-      "price": 26905.0
-    },
-    {
-      "code": "062040",
-      "amount_eok": 20.3,
-      "change_pct": -6.649395509499135,
-      "amount_rank": 129,
-      "price": 108100.0
-    },
-    {
-      "code": "148020",
-      "amount_eok": 103.0,
-      "change_pct": -4.040841584158416,
-      "amount_rank": 39,
-      "price": 77535.0
-    },
-    {
-      "code": "005385",
-      "amount_eok": 19.3,
-      "change_pct": -0.6320224719101097,
-      "amount_rank": 133,
-      "price": 141500.0
-    },
-    {
-      "code": "411060",
-      "amount_eok": 59.3,
-      "change_pct": -2.949786084215267,
-      "amount_rank": 69,
-      "price": 21550.0
-    },
-    {
-      "code": "192820",
-      "amount_eok": 27.9,
-      "change_pct": -2.2375215146299476,
-      "amount_rank": 111,
-      "price": 284000.0
-    },
-    {
-      "code": "273130",
-      "amount_eok": 0.96,
-      "change_pct": 0.1678890165238034,
-      "amount_rank": 268,
-      "price": 113360.0
-    },
-    {
-      "code": "310970",
-      "amount_eok": 0.52,
-      "change_pct": -4.036312849162016,
-      "amount_rank": 280,
-      "price": 34355.0
-    },
-    {
-      "code": "022100",
-      "amount_eok": 8.25,
-      "change_pct": -4.966139954853277,
-      "amount_rank": 191,
-      "price": 21050.0
-    },
-    {
-      "code": "454910",
-      "amount_eok": 21.5,
-      "change_pct": -4.043392504930965,
-      "amount_rank": 124,
-      "price": 48650.0
-    },
-    {
-      "code": "367380",
-      "amount_eok": 17.8,
-      "change_pct": -3.9184111647879716,
-      "amount_rank": 138,
-      "price": 26850.0
-    },
-    {
-      "code": "088350",
-      "amount_eok": 6.67,
-      "change_pct": -2.0380434782608647,
-      "amount_rank": 201,
-      "price": 3605.0
-    },
-    {
-      "code": "035250",
-      "amount_eok": 18.7,
-      "change_pct": 2.3354564755838636,
-      "amount_rank": 135,
-      "price": 14460.0
-    },
-    {
-      "code": "111770",
-      "amount_eok": 2.71,
-      "change_pct": -0.4978662873399764,
-      "amount_rank": 241,
-      "price": 69950.0
-    },
-    {
-      "code": "018880",
-      "amount_eok": 10.1,
-      "change_pct": -1.1551155115511524,
-      "amount_rank": 175,
-      "price": 2995.0
-    },
-    {
-      "code": "000990",
-      "amount_eok": 42.8,
-      "change_pct": -7.6416337285902465,
-      "amount_rank": 84,
-      "price": 70100.0
-    },
-    {
-      "code": "010060",
-      "amount_eok": 26.4,
-      "change_pct": -4.705882352941182,
-      "amount_rank": 113,
-      "price": 162000.0
-    },
-    {
-      "code": "002380",
-      "amount_eok": 5.44,
-      "change_pct": -3.051317614424409,
-      "amount_rank": 213,
-      "price": 349500.0
-    },
-    {
-      "code": "302440",
-      "amount_eok": 1.8,
-      "change_pct": -1.5706806282722474,
-      "amount_rank": 254,
-      "price": 37600.0
-    },
-    {
-      "code": "001450",
-      "amount_eok": 12.1,
-      "change_pct": -1.017441860465118,
-      "amount_rank": 168,
-      "price": 34050.0
-    },
-    {
-      "code": "066970",
-      "amount_eok": 59.8,
-      "change_pct": -4.395604395604391,
-      "amount_rank": 68,
-      "price": 69600.0
-    },
-    {
-      "code": "004170",
-      "amount_eok": 62.3,
-      "change_pct": 0.50761421319796,
-      "amount_rank": 65,
-      "price": 297000.0
-    },
-    {
-      "code": "097950",
-      "amount_eok": 9.22,
-      "change_pct": 0.05408328826392861,
-      "amount_rank": 181,
-      "price": 185000.0
-    },
-    {
-      "code": "233740",
-      "amount_eok": 1384.0,
-      "change_pct": -9.427207637231504,
-      "amount_rank": 5,
-      "price": 3795.0
-    },
-    {
-      "code": "026960",
-      "amount_eok": 2.3,
-      "change_pct": 0.5415162454873723,
-      "amount_rank": 245,
-      "price": 27850.0
-    },
-    {
-      "code": "009420",
-      "amount_eok": 16.7,
-      "change_pct": -2.2222222222222254,
-      "amount_rank": 142,
-      "price": 52800.0
-    },
-    {
-      "code": "031210",
-      "amount_eok": 1.7,
-      "change_pct": -0.5044136191677207,
-      "amount_rank": 256,
-      "price": 39450.0
-    },
-    {
-      "code": "161890",
-      "amount_eok": 13.1,
-      "change_pct": -2.1079258010118007,
-      "amount_rank": 161,
-      "price": 116100.0
-    },
-    {
-      "code": "251270",
-      "amount_eok": 7.77,
-      "change_pct": 1.2232415902140747,
-      "amount_rank": 196,
-      "price": 33100.0
-    },
-    {
-      "code": "395160",
-      "amount_eok": 147.0,
-      "change_pct": -6.446428571428575,
-      "amount_rank": 30,
-      "price": 26195.0
-    },
-    {
-      "code": "028670",
-      "amount_eok": 5.62,
-      "change_pct": -1.3725490196078383,
-      "amount_rank": 211,
-      "price": 5030.0
-    },
-    {
-      "code": "481050",
-      "amount_eok": 262.0,
-      "change_pct": 0.009765672683959004,
-      "amount_rank": 21,
-      "price": 1024095.0
-    },
-    {
-      "code": "103590",
-      "amount_eok": 22.9,
-      "change_pct": -2.8520499108734443,
-      "amount_rank": 123,
-      "price": 54500.0
-    },
-    {
-      "code": "006360",
-      "amount_eok": 37.0,
-      "change_pct": -2.819237147595355,
-      "amount_rank": 94,
-      "price": 29300.0
-    },
-    {
-      "code": "139130",
-      "amount_eok": 3.57,
-      "change_pct": -0.18939393939394478,
-      "amount_rank": 229,
-      "price": 15810.0
-    },
-    {
-      "code": "052690",
-      "amount_eok": 8.0,
-      "change_pct": -4.619970193740686,
-      "amount_rank": 194,
-      "price": 64000.0
-    },
-    {
-      "code": "282330",
-      "amount_eok": 5.0,
-      "change_pct": 0.9219858156028327,
-      "amount_rank": 218,
-      "price": 142300.0
-    },
-    {
-      "code": "102780",
-      "amount_eok": 8.66,
-      "change_pct": -4.193231976459044,
-      "amount_rank": 186,
-      "price": 19535.0
-    },
-    {
-      "code": "486290",
-      "amount_eok": 38.9,
-      "change_pct": -3.6916395222584164,
-      "amount_rank": 90,
-      "price": 8870.0
-    },
-    {
-      "code": "023530",
-      "amount_eok": 3.35,
-      "change_pct": -3.7735849056603765,
-      "amount_rank": 234,
-      "price": 81600.0
-    },
-    {
-      "code": "383220",
-      "amount_eok": 2.11,
-      "change_pct": -1.1437908496731986,
-      "amount_rank": 249,
-      "price": 60500.0
-    },
-    {
-      "code": "011780",
-      "amount_eok": 3.51,
-      "change_pct": -1.3978494623655968,
-      "amount_rank": 232,
-      "price": 91700.0
-    },
-    {
-      "code": "449170",
-      "amount_eok": 13.1,
-      "change_pct": 0.01333511134817833,
-      "amount_rank": 162,
-      "price": 112500.0
-    },
-    {
-      "code": "017800",
-      "amount_eok": 33.9,
-      "change_pct": -6.137724550898205,
-      "amount_rank": 101,
-      "price": 62700.0
-    },
-    {
-      "code": "395270",
-      "amount_eok": 29.4,
-      "change_pct": -6.017119838872109,
-      "amount_rank": 109,
-      "price": 37330.0
-    },
-    {
-      "code": "007810",
-      "amount_eok": 141.0,
-      "change_pct": -5.544354838709675,
-      "amount_rank": 32,
-      "price": 93700.0
-    },
-    {
-      "code": "007340",
-      "amount_eok": 6.36,
-      "change_pct": 0.0,
-      "amount_rank": 205,
-      "price": 38350.0
-    },
-    {
-      "code": "472150",
-      "amount_eok": 127.0,
-      "change_pct": -4.024982650936848,
-      "amount_rank": 33,
-      "price": 13830.0
-    },
-    {
-      "code": "004990",
-      "amount_eok": 0.83,
-      "change_pct": -0.22026431718061845,
-      "amount_rank": 270,
-      "price": 22650.0
-    },
-    {
-      "code": "003690",
-      "amount_eok": 1.42,
-      "change_pct": -0.31496062992125706,
-      "amount_rank": 258,
-      "price": 12660.0
-    },
-    {
-      "code": "279570",
-      "amount_eok": 3.72,
-      "change_pct": -0.5494505494505475,
-      "amount_rank": 226,
-      "price": 5430.0
-    },
-    {
-      "code": "385540",
-      "amount_eok": 0.01,
-      "change_pct": 0.1129943502824915,
-      "amount_rank": 293,
-      "price": 106320.0
-    },
-    {
-      "code": "085620",
-      "amount_eok": 0.79,
-      "change_pct": -3.802733214497922,
-      "amount_rank": 273,
-      "price": 16190.0
-    },
-    {
-      "code": "457190",
-      "amount_eok": 23.1,
-      "change_pct": -4.894179894179896,
-      "amount_rank": 120,
-      "price": 71900.0
-    },
-    {
-      "code": "069960",
-      "amount_eok": 13.6,
-      "change_pct": 2.254098360655732,
-      "amount_rank": 160,
-      "price": 99800.0
-    },
-    {
-      "code": "005440",
-      "amount_eok": 0.57,
-      "change_pct": -1.4431239388794537,
-      "amount_rank": 279,
-      "price": 11610.0
-    },
-    {
-      "code": "161510",
-      "amount_eok": 14.3,
-      "change_pct": -0.8094357076780745,
-      "amount_rank": 156,
-      "price": 21445.0
-    },
-    {
-      "code": "089860",
-      "amount_eok": 7.15,
-      "change_pct": -0.17035775127768327,
-      "amount_rank": 199,
-      "price": 58600.0
-    },
-    {
-      "code": "002790",
-      "amount_eok": 3.47,
-      "change_pct": -1.2522361359570633,
-      "amount_rank": 233,
-      "price": 27600.0
-    },
-    {
-      "code": "004370",
-      "amount_eok": 2.22,
-      "change_pct": -0.43859649122807154,
-      "amount_rank": 247,
-      "price": 340500.0
-    },
-    {
-      "code": "020150",
-      "amount_eok": 7.69,
-      "change_pct": -3.6082474226804107,
-      "amount_rank": 197,
-      "price": 37400.0
-    },
-    {
-      "code": "018670",
-      "amount_eok": 2.31,
-      "change_pct": 0.2358490566037652,
-      "amount_rank": 244,
-      "price": 212500.0
-    },
-    {
-      "code": "009970",
-      "amount_eok": 1.23,
-      "change_pct": -2.7422303473491727,
-      "amount_rank": 261,
-      "price": 159600.0
-    },
-    {
-      "code": "214980",
-      "amount_eok": 6.23,
-      "change_pct": 0.034914677257447124,
-      "amount_rank": 207,
-      "price": 114605.0
-    },
-    {
-      "code": "181710",
-      "amount_eok": 46.3,
-      "change_pct": -6.864274570982842,
-      "amount_rank": 81,
-      "price": 59700.0
-    },
-    {
-      "code": "004800",
-      "amount_eok": 2.55,
-      "change_pct": -4.922067268252661,
-      "amount_rank": 242,
-      "price": 115900.0
-    },
-    {
-      "code": "426030",
-      "amount_eok": 31.0,
-      "change_pct": -4.749999999999998,
-      "amount_rank": 107,
-      "price": 34290.0
-    },
-    {
-      "code": "001720",
-      "amount_eok": 0.83,
-      "change_pct": 0.08503401360544505,
-      "amount_rank": 271,
+      "code": "034730",
+      "amount_eok": 864.0,
+      "change_pct": -4.004329004329,
+      "amount_rank": 37,
+      "price": 443500.0
+    },
+    {
+      "code": "006400",
+      "amount_eok": 1984.0,
+      "change_pct": -1.8633540372670843,
+      "amount_rank": 20,
+      "price": 395000.0
+    },
+    {
+      "code": "086790",
+      "amount_eok": 752.0,
+      "change_pct": -5.004035512510086,
+      "amount_rank": 47,
       "price": 117700.0
     },
     {
-      "code": "487240",
-      "amount_eok": 63.7,
-      "change_pct": -5.200000000000005,
-      "amount_rank": 61,
-      "price": 21330.0
+      "code": "012450",
+      "amount_eok": 597.0,
+      "change_pct": -4.958677685950407,
+      "amount_rank": 54,
+      "price": 575000.0
     },
     {
-      "code": "011170",
-      "amount_eok": 3.56,
-      "change_pct": -3.1351351351351364,
-      "amount_rank": 231,
-      "price": 44800.0
+      "code": "012330",
+      "amount_eok": 561.0,
+      "change_pct": -3.2507739938080538,
+      "amount_rank": 60,
+      "price": 312500.0
+    },
+    {
+      "code": "034020",
+      "amount_eok": 928.0,
+      "change_pct": -3.435582822085892,
+      "amount_rank": 35,
+      "price": 39350.0
+    },
+    {
+      "code": "329180",
+      "amount_eok": 417.0,
+      "change_pct": -3.8461538461538436,
+      "amount_rank": 78,
+      "price": 237500.0
+    },
+    {
+      "code": "035420",
+      "amount_eok": 2223.0,
+      "change_pct": -7.178217821782173,
+      "amount_rank": 19,
+      "price": 150000.0
+    },
+    {
+      "code": "316140",
+      "amount_eok": 536.0,
+      "change_pct": -3.4755134281200584,
+      "amount_rank": 63,
+      "price": 30550.0
+    },
+    {
+      "code": "000810",
+      "amount_eok": 418.0,
+      "change_pct": -5.870841487279844,
+      "amount_rank": 77,
+      "price": 481000.0
+    },
+    {
+      "code": "138040",
+      "amount_eok": 252.0,
+      "change_pct": -3.653693407466241,
+      "amount_rank": 104,
+      "price": 121300.0
+    },
+    {
+      "code": "066570",
+      "amount_eok": 766.0,
+      "change_pct": -5.666156202143946,
+      "amount_rank": 45,
+      "price": 123200.0
+    },
+    {
+      "code": "011200",
+      "amount_eok": 170.0,
+      "change_pct": -4.514672686230248,
+      "amount_rank": 129,
+      "price": 21150.0
+    },
+    {
+      "code": "360750",
+      "amount_eok": 6611.0,
+      "change_pct": -0.338051975491227,
+      "amount_rank": 10,
+      "price": 23585.0
+    },
+    {
+      "code": "005490",
+      "amount_eok": 523.0,
+      "change_pct": -4.36507936507936,
+      "amount_rank": 64,
+      "price": 241000.0
+    },
+    {
+      "code": "069500",
+      "amount_eok": 21291.0,
+      "change_pct": -3.201679569610283,
+      "amount_rank": 3,
+      "price": 73770.0
+    },
+    {
+      "code": "033780",
+      "amount_eok": 584.0,
+      "change_pct": -0.7182320441988965,
+      "amount_rank": 57,
+      "price": 179700.0
+    },
+    {
+      "code": "010120",
+      "amount_eok": 629.0,
+      "change_pct": -0.1823154056517784,
+      "amount_rank": 51,
+      "price": 109500.0
+    },
+    {
+      "code": "015760",
+      "amount_eok": 355.0,
+      "change_pct": -2.73972602739726,
+      "amount_rank": 87,
+      "price": 24850.0
+    },
+    {
+      "code": "096770",
+      "amount_eok": 494.0,
+      "change_pct": -3.601694915254239,
+      "amount_rank": 67,
+      "price": 91000.0
+    },
+    {
+      "code": "009540",
+      "amount_eok": 327.0,
+      "change_pct": -3.8202247191011285,
+      "amount_rank": 93,
+      "price": 214000.0
+    },
+    {
+      "code": "010130",
+      "amount_eok": 84.0,
+      "change_pct": -2.8187919463087296,
+      "amount_rank": 186,
+      "price": 724000.0
+    },
+    {
+      "code": "298040",
+      "amount_eok": 487.0,
+      "change_pct": -3.811792733770103,
+      "amount_rank": 68,
+      "price": 1615000.0
+    },
+    {
+      "code": "024110",
+      "amount_eok": 139.0,
+      "change_pct": -3.9246467817896424,
+      "amount_rank": 143,
+      "price": 18360.0
+    },
+    {
+      "code": "180640",
+      "amount_eok": 786.0,
+      "change_pct": -8.05084745762712,
+      "amount_rank": 43,
+      "price": 217000.0
+    },
+    {
+      "code": "042700",
+      "amount_eok": 1235.0,
+      "change_pct": -2.4057217165149525,
+      "amount_rank": 28,
+      "price": 150100.0
+    },
+    {
+      "code": "086280",
+      "amount_eok": 280.0,
+      "change_pct": -7.334963325183375,
+      "amount_rank": 99,
+      "price": 189500.0
+    },
+    {
+      "code": "017670",
+      "amount_eok": 1154.0,
+      "change_pct": -7.317073170731703,
+      "amount_rank": 31,
+      "price": 64600.0
+    },
+    {
+      "code": "018260",
+      "amount_eok": 1464.0,
+      "change_pct": -15.608591885441525,
+      "amount_rank": 24,
+      "price": 176800.0
+    },
+    {
+      "code": "267260",
+      "amount_eok": 387.0,
+      "change_pct": -2.069857697283317,
+      "amount_rank": 84,
+      "price": 378500.0
+    },
+    {
+      "code": "051910",
+      "amount_eok": 520.0,
+      "change_pct": -5.3694581280788185,
+      "amount_rank": 65,
+      "price": 192100.0
+    },
+    {
+      "code": "003670",
+      "amount_eok": 388.0,
+      "change_pct": -5.454545454545457,
+      "amount_rank": 83,
+      "price": 150800.0
+    },
+    {
+      "code": "488770",
+      "amount_eok": 988.0,
+      "change_pct": 0.014118311449951015,
+      "amount_rank": 33,
+      "price": 106260.0
+    },
+    {
+      "code": "035720",
+      "amount_eok": 543.0,
+      "change_pct": -6.774193548387098,
+      "amount_rank": 61,
+      "price": 28900.0
+    },
+    {
+      "code": "003550",
+      "amount_eok": 166.0,
+      "change_pct": -4.550625711035272,
+      "amount_rank": 132,
+      "price": 83900.0
+    },
+    {
+      "code": "010140",
+      "amount_eok": 460.0,
+      "change_pct": -5.158730158730163,
+      "amount_rank": 73,
+      "price": 14340.0
+    },
+    {
+      "code": "042660",
+      "amount_eok": 441.0,
+      "change_pct": -4.275534441805229,
+      "amount_rank": 75,
+      "price": 40300.0
+    },
+    {
+      "code": "003490",
+      "amount_eok": 563.0,
+      "change_pct": -3.66242038216561,
+      "amount_rank": 59,
+      "price": 30250.0
+    },
+    {
+      "code": "030200",
+      "amount_eok": 207.0,
+      "change_pct": -3.6263736263736246,
+      "amount_rank": 116,
+      "price": 43850.0
+    },
+    {
+      "code": "028050",
+      "amount_eok": 2320.0,
+      "change_pct": -8.789386401326704,
+      "amount_rank": 18,
+      "price": 55000.0
+    },
+    {
+      "code": "133690",
+      "amount_eok": 5544.0,
+      "change_pct": -1.059786110037364,
+      "amount_rank": 12,
+      "price": 153575.0
+    },
+    {
+      "code": "010950",
+      "amount_eok": 355.0,
+      "change_pct": -4.933196300102772,
+      "amount_rank": 88,
+      "price": 92500.0
+    },
+    {
+      "code": "005830",
+      "amount_eok": 247.0,
+      "change_pct": -3.284671532846717,
+      "amount_rank": 106,
+      "price": 159000.0
+    },
+    {
+      "code": "379800",
+      "amount_eok": 5170.0,
+      "change_pct": -0.37304733038003857,
+      "amount_rank": 14,
+      "price": 21365.0
+    },
+    {
+      "code": "006800",
+      "amount_eok": 198.0,
+      "change_pct": -4.113924050632911,
+      "amount_rank": 119,
+      "price": 18180.0
+    },
+    {
+      "code": "323410",
+      "amount_eok": 104.0,
+      "change_pct": -3.9260969976905313,
+      "amount_rank": 168,
+      "price": 20800.0
+    },
+    {
+      "code": "278470",
+      "amount_eok": 1388.0,
+      "change_pct": 9.129511677282377,
+      "amount_rank": 25,
+      "price": 257000.0
+    },
+    {
+      "code": "047810",
+      "amount_eok": 302.0,
+      "change_pct": -7.071713147410364,
+      "amount_rank": 97,
+      "price": 93300.0
+    },
+    {
+      "code": "003230",
+      "amount_eok": 393.0,
+      "change_pct": -3.5685320356853234,
+      "amount_rank": 81,
+      "price": 1189000.0
+    },
+    {
+      "code": "379810",
+      "amount_eok": 5229.0,
+      "change_pct": -0.9922346850733343,
+      "amount_rank": 13,
+      "price": 22950.0
+    },
+    {
+      "code": "259960",
+      "amount_eok": 154.0,
+      "change_pct": -5.679012345679013,
+      "amount_rank": 138,
+      "price": 191000.0
+    },
+    {
+      "code": "267250",
+      "amount_eok": 178.0,
+      "change_pct": -5.663716814159292,
+      "amount_rank": 125,
+      "price": 106600.0
+    },
+    {
+      "code": "272210",
+      "amount_eok": 209.0,
+      "change_pct": -5.1446945337620615,
+      "amount_rank": 114,
+      "price": 44250.0
+    },
+    {
+      "code": "005940",
+      "amount_eok": 88.1,
+      "change_pct": -3.563474387527843,
+      "amount_rank": 182,
+      "price": 21650.0
+    },
+    {
+      "code": "047050",
+      "amount_eok": 121.0,
+      "change_pct": -2.9001074113856107,
+      "amount_rank": 153,
+      "price": 45200.0
+    },
+    {
+      "code": "090430",
+      "amount_eok": 178.0,
+      "change_pct": -3.012912482065999,
+      "amount_rank": 126,
+      "price": 135200.0
+    },
+    {
+      "code": "443060",
+      "amount_eok": 120.0,
+      "change_pct": -4.761904761904767,
+      "amount_rank": 155,
+      "price": 176000.0
+    },
+    {
+      "code": "001260",
+      "amount_eok": 1.99,
+      "change_pct": -1.2413793103448256,
+      "amount_rank": 289,
+      "price": 7160.0
+    },
+    {
+      "code": "000150",
+      "amount_eok": 768.0,
+      "change_pct": 2.4667931688804545,
+      "amount_rank": 44,
+      "price": 540000.0
+    },
+    {
+      "code": "307950",
+      "amount_eok": 166.0,
+      "change_pct": -3.9655172413793127,
+      "amount_rank": 133,
+      "price": 278500.0
+    },
+    {
+      "code": "102110",
+      "amount_eok": 8078.0,
+      "change_pct": -3.3933973431540143,
+      "amount_rank": 6,
+      "price": 73450.0
+    },
+    {
+      "code": "000720",
+      "amount_eok": 415.0,
+      "change_pct": -8.940852819807432,
+      "amount_rank": 79,
+      "price": 66200.0
+    },
+    {
+      "code": "352820",
+      "amount_eok": 505.0,
+      "change_pct": -6.8627450980392135,
+      "amount_rank": 66,
+      "price": 171000.0
+    },
+    {
+      "code": "079550",
+      "amount_eok": 294.0,
+      "change_pct": -3.5919540229885083,
+      "amount_rank": 98,
+      "price": 335500.0
+    },
+    {
+      "code": "161390",
+      "amount_eok": 190.0,
+      "change_pct": -4.248366013071891,
+      "amount_rank": 123,
+      "price": 58600.0
+    },
+    {
+      "code": "021240",
+      "amount_eok": 205.0,
+      "change_pct": -7.224334600760452,
+      "amount_rank": 117,
+      "price": 97600.0
+    },
+    {
+      "code": "071050",
+      "amount_eok": 256.0,
+      "change_pct": -0.08257638315442017,
+      "amount_rank": 103,
+      "price": 121000.0
+    },
+    {
+      "code": "459580",
+      "amount_eok": 3989.0,
+      "change_pct": 0.009762401736779225,
+      "amount_rank": 16,
+      "price": 1075660.0
+    },
+    {
+      "code": "000500",
+      "amount_eok": 217.0,
+      "change_pct": 3.349282296650724,
+      "amount_rank": 112,
+      "price": 216000.0
+    },
+    {
+      "code": "078930",
+      "amount_eok": 584.0,
+      "change_pct": -8.510638297872342,
+      "amount_rank": 56,
+      "price": 68800.0
+    },
+    {
+      "code": "326030",
+      "amount_eok": 121.0,
+      "change_pct": -6.5668202764976975,
+      "amount_rank": 154,
+      "price": 81100.0
+    },
+    {
+      "code": "064350",
+      "amount_eok": 312.0,
+      "change_pct": -7.3051948051948035,
+      "amount_rank": 96,
+      "price": 57100.0
+    },
+    {
+      "code": "032640",
+      "amount_eok": 111.0,
+      "change_pct": -1.9372077488309936,
+      "amount_rank": 161,
+      "price": 14680.0
+    },
+    {
+      "code": "396500",
+      "amount_eok": 3217.0,
+      "change_pct": -1.720207253886008,
+      "amount_rank": 17,
+      "price": 23710.0
+    },
+    {
+      "code": "011070",
+      "amount_eok": 612.0,
+      "change_pct": -3.9252336448598157,
+      "amount_rank": 53,
+      "price": 257000.0
+    },
+    {
+      "code": "016360",
+      "amount_eok": 174.0,
+      "change_pct": -2.4566473988439252,
+      "amount_rank": 128,
+      "price": 67500.0
+    },
+    {
+      "code": "064400",
+      "amount_eok": 1136.0,
+      "change_pct": -13.7883008356546,
+      "amount_rank": 32,
+      "price": 61900.0
+    },
+    {
+      "code": "128940",
+      "amount_eok": 384.0,
+      "change_pct": -3.0033370411568394,
+      "amount_rank": 85,
+      "price": 436000.0
+    },
+    {
+      "code": "000100",
+      "amount_eok": 126.0,
+      "change_pct": -5.955334987593053,
+      "amount_rank": 150,
+      "price": 75800.0
+    },
+    {
+      "code": "278530",
+      "amount_eok": 484.0,
+      "change_pct": -3.4302220617439927,
+      "amount_rank": 69,
+      "price": 26745.0
+    },
+    {
+      "code": "007660",
+      "amount_eok": 931.0,
+      "change_pct": 1.4367816091954033,
+      "amount_rank": 34,
+      "price": 70600.0
+    },
+    {
+      "code": "006260",
+      "amount_eok": 196.0,
+      "change_pct": -4.693998811645872,
+      "amount_rank": 122,
+      "price": 160400.0
+    },
+    {
+      "code": "039490",
+      "amount_eok": 158.0,
+      "change_pct": 0.2652519893899141,
+      "amount_rank": 136,
+      "price": 189000.0
+    },
+    {
+      "code": "029780",
+      "amount_eok": 25.3,
+      "change_pct": -2.536231884057971,
+      "amount_rank": 248,
+      "price": 40350.0
+    },
+    {
+      "code": "005387",
+      "amount_eok": 249.0,
+      "change_pct": -3.512544802867379,
+      "amount_rank": 105,
+      "price": 134600.0
+    },
+    {
+      "code": "175330",
+      "amount_eok": 68.4,
+      "change_pct": -3.7109375,
+      "amount_rank": 207,
+      "price": 24650.0
+    },
+    {
+      "code": "498400",
+      "amount_eok": 1219.0,
+      "change_pct": -3.2409074540871496,
+      "amount_rank": 29,
+      "price": 13435.0
+    },
+    {
+      "code": "088980",
+      "amount_eok": 130.0,
+      "change_pct": -1.0373443983402453,
+      "amount_rank": 146,
+      "price": 9540.0
+    },
+    {
+      "code": "241560",
+      "amount_eok": 105.0,
+      "change_pct": -5.776892430278879,
+      "amount_rank": 167,
+      "price": 47300.0
+    },
+    {
+      "code": "271560",
+      "amount_eok": 112.0,
+      "change_pct": -2.8109028960817684,
+      "amount_rank": 160,
+      "price": 114100.0
+    },
+    {
+      "code": "458730",
+      "amount_eok": 359.0,
+      "change_pct": 0.24129610479144414,
+      "amount_rank": 86,
+      "price": 14540.0
+    },
+    {
+      "code": "377300",
+      "amount_eok": 46.0,
+      "change_pct": -4.8888888888888875,
+      "amount_rank": 222,
+      "price": 32100.0
+    },
+    {
+      "code": "381180",
+      "amount_eok": 1166.0,
+      "change_pct": -3.6434714620797504,
+      "amount_rank": 30,
+      "price": 30810.0
+    },
+    {
+      "code": "009830",
+      "amount_eok": 423.0,
+      "change_pct": -3.091190108191655,
+      "amount_rank": 76,
+      "price": 18810.0
+    },
+    {
+      "code": "000430",
+      "amount_eok": 2.81,
+      "change_pct": -1.308900523560208,
+      "amount_rank": 286,
+      "price": 3770.0
+    },
+    {
+      "code": "047040",
+      "amount_eok": 457.0,
+      "change_pct": -7.361376673040154,
+      "amount_rank": 74,
+      "price": 9690.0
+    },
+    {
+      "code": "012750",
+      "amount_eok": 69.8,
+      "change_pct": -2.0000000000000018,
+      "amount_rank": 205,
+      "price": 102900.0
+    },
+    {
+      "code": "229200",
+      "amount_eok": 7161.0,
+      "change_pct": -1.3796384395813543,
+      "amount_rank": 7,
+      "price": 10365.0
+    },
+    {
+      "code": "357870",
+      "amount_eok": 150.0,
+      "change_pct": -0.00855871276960185,
+      "amount_rank": 139,
+      "price": 58415.0
+    },
+    {
+      "code": "138930",
+      "amount_eok": 101.0,
+      "change_pct": -3.749999999999998,
+      "amount_rank": 170,
+      "price": 12320.0
+    },
+    {
+      "code": "360200",
+      "amount_eok": 112.0,
+      "change_pct": -0.37617554858934144,
+      "amount_rank": 158,
+      "price": 23835.0
+    },
+    {
+      "code": "353200",
+      "amount_eok": 855.0,
+      "change_pct": 0.6765899864682012,
+      "amount_rank": 38,
+      "price": 74400.0
+    },
+    {
+      "code": "051900",
+      "amount_eok": 83.2,
+      "change_pct": -3.1809145129224614,
+      "amount_rank": 188,
+      "price": 243500.0
+    },
+    {
+      "code": "455890",
+      "amount_eok": 115.0,
+      "change_pct": 0.008941344778246041,
+      "amount_rank": 156,
+      "price": 55925.0
+    },
+    {
+      "code": "036570",
+      "amount_eok": 139.0,
+      "change_pct": -6.57015590200446,
+      "amount_rank": 144,
+      "price": 167800.0
+    },
+    {
+      "code": "004020",
+      "amount_eok": 70.7,
+      "change_pct": -3.985507246376807,
+      "amount_rank": 202,
+      "price": 26500.0
+    },
+    {
+      "code": "267270",
+      "amount_eok": 144.0,
+      "change_pct": -6.909547738693467,
+      "amount_rank": 141,
+      "price": 74100.0
+    },
+    {
+      "code": "091160",
+      "amount_eok": 1937.0,
+      "change_pct": -1.4716312056737624,
+      "amount_rank": 21,
+      "price": 83355.0
+    },
+    {
+      "code": "423160",
+      "amount_eok": 107.0,
+      "change_pct": 0.009018759018752931,
+      "amount_rank": 164,
+      "price": 110890.0
+    },
+    {
+      "code": "008930",
+      "amount_eok": 36.1,
+      "change_pct": -2.9013539651837505,
+      "amount_rank": 232,
+      "price": 50200.0
+    },
+    {
+      "code": "000880",
+      "amount_eok": 75.6,
+      "change_pct": -3.4848484848484795,
+      "amount_rank": 197,
+      "price": 63700.0
+    },
+    {
+      "code": "001620",
+      "amount_eok": 0.34,
+      "change_pct": -0.05055611729019027,
+      "amount_rank": 294,
+      "price": 1977.0
+    },
+    {
+      "code": "381170",
+      "amount_eok": 264.0,
+      "change_pct": -0.9930672662544549,
+      "amount_rank": 102,
+      "price": 26420.0
+    },
+    {
+      "code": "411060",
+      "amount_eok": 351.0,
+      "change_pct": 2.635294117647069,
+      "amount_rank": 90,
+      "price": 21810.0
+    },
+    {
+      "code": "036460",
+      "amount_eok": 45.5,
+      "change_pct": -6.133333333333335,
+      "amount_rank": 224,
+      "price": 35200.0
+    },
+    {
+      "code": "001440",
+      "amount_eok": 222.0,
+      "change_pct": -2.8806584362139898,
+      "amount_rank": 110,
+      "price": 16520.0
+    },
+    {
+      "code": "001040",
+      "amount_eok": 112.0,
+      "change_pct": -3.231441048034933,
+      "amount_rank": 157,
+      "price": 110800.0
+    },
+    {
+      "code": "273130",
+      "amount_eok": 79.6,
+      "change_pct": 0.2113513275505241,
+      "amount_rank": 193,
+      "price": 113795.0
+    },
+    {
+      "code": "034220",
+      "amount_eok": 197.0,
+      "change_pct": -5.286343612334798,
+      "amount_rank": 121,
+      "price": 6450.0
+    },
+    {
+      "code": "192820",
+      "amount_eok": 200.0,
+      "change_pct": 0.0,
+      "amount_rank": 118,
+      "price": 284500.0
+    },
+    {
+      "code": "122630",
+      "amount_eok": 14285.0,
+      "change_pct": -6.690035052578869,
+      "amount_rank": 5,
+      "price": 46585.0
+    },
+    {
+      "code": "367380",
+      "amount_eok": 326.0,
+      "change_pct": -1.0307346326836608,
+      "amount_rank": 94,
+      "price": 26405.0
+    },
+    {
+      "code": "148020",
+      "amount_eok": 1512.0,
+      "change_pct": -3.2574568288853967,
+      "amount_rank": 23,
+      "price": 73950.0
+    },
+    {
+      "code": "011790",
+      "amount_eok": 85.3,
+      "change_pct": -5.303030303030298,
+      "amount_rank": 185,
+      "price": 62500.0
+    },
+    {
+      "code": "454910",
+      "amount_eok": 179.0,
+      "change_pct": -0.6315789473684164,
+      "amount_rank": 124,
+      "price": 47200.0
+    },
+    {
+      "code": "310970",
+      "amount_eok": 2.66,
+      "change_pct": -3.3387501846653844,
+      "amount_rank": 287,
+      "price": 32715.0
+    },
+    {
+      "code": "062040",
+      "amount_eok": 272.0,
+      "change_pct": -5.534351145038164,
+      "amount_rank": 101,
+      "price": 99000.0
+    },
+    {
+      "code": "111770",
+      "amount_eok": 54.4,
+      "change_pct": -3.2670454545454586,
+      "amount_rank": 215,
+      "price": 68100.0
+    },
+    {
+      "code": "005385",
+      "amount_eok": 129.0,
+      "change_pct": -3.8067349926793503,
+      "amount_rank": 148,
+      "price": 131400.0
+    },
+    {
+      "code": "022100",
+      "amount_eok": 55.4,
+      "change_pct": -6.2200956937799035,
+      "amount_rank": 213,
+      "price": 19600.0
+    },
+    {
+      "code": "035250",
+      "amount_eok": 48.1,
+      "change_pct": -2.390998593530236,
+      "amount_rank": 219,
+      "price": 13880.0
+    },
+    {
+      "code": "018880",
+      "amount_eok": 82.8,
+      "change_pct": -1.7064846416382284,
+      "amount_rank": 190,
+      "price": 2880.0
+    },
+    {
+      "code": "302440",
+      "amount_eok": 34.5,
+      "change_pct": -4.025974025974022,
+      "amount_rank": 235,
+      "price": 36950.0
+    },
+    {
+      "code": "088350",
+      "amount_eok": 88.4,
+      "change_pct": -4.714285714285715,
+      "amount_rank": 181,
+      "price": 3335.0
+    },
+    {
+      "code": "000990",
+      "amount_eok": 207.0,
+      "change_pct": -3.3576642335766405,
+      "amount_rank": 115,
+      "price": 66200.0
+    },
+    {
+      "code": "002380",
+      "amount_eok": 73.2,
+      "change_pct": -3.1976744186046457,
+      "amount_rank": 200,
+      "price": 333000.0
+    },
+    {
+      "code": "010060",
+      "amount_eok": 391.0,
+      "change_pct": -6.590621039290245,
+      "amount_rank": 82,
+      "price": 147400.0
+    },
+    {
+      "code": "161890",
+      "amount_eok": 197.0,
+      "change_pct": -0.6878761822871837,
+      "amount_rank": 120,
+      "price": 115500.0
+    },
+    {
+      "code": "009420",
+      "amount_eok": 82.4,
+      "change_pct": -4.460966542750933,
+      "amount_rank": 191,
+      "price": 51400.0
+    },
+    {
+      "code": "066970",
+      "amount_eok": 162.0,
+      "change_pct": -4.22125181950509,
+      "amount_rank": 134,
+      "price": 65800.0
+    },
+    {
+      "code": "001450",
+      "amount_eok": 143.0,
+      "change_pct": -5.855855855855852,
+      "amount_rank": 142,
+      "price": 31350.0
+    },
+    {
+      "code": "097950",
+      "amount_eok": 79.7,
+      "change_pct": -3.1284302963776045,
+      "amount_rank": 192,
+      "price": 176500.0
+    },
+    {
+      "code": "481050",
+      "amount_eok": 351.0,
+      "change_pct": 0.01025290498974929,
+      "amount_rank": 89,
+      "price": 1024205.0
+    },
+    {
+      "code": "026960",
+      "amount_eok": 19.1,
+      "change_pct": -3.290676416819016,
+      "amount_rank": 256,
+      "price": 26450.0
+    },
+    {
+      "code": "031210",
+      "amount_eok": 33.7,
+      "change_pct": -1.8396846254927768,
+      "amount_rank": 237,
+      "price": 37350.0
+    },
+    {
+      "code": "395160",
+      "amount_eok": 1359.0,
+      "change_pct": -1.4257812500000022,
+      "amount_rank": 26,
+      "price": 25235.0
+    },
+    {
+      "code": "233740",
+      "amount_eok": 7015.0,
+      "change_pct": -2.904564315352698,
+      "amount_rank": 8,
+      "price": 3510.0
+    },
+    {
+      "code": "004170",
+      "amount_eok": 177.0,
+      "change_pct": -6.5857885615251295,
+      "amount_rank": 127,
+      "price": 269500.0
+    },
+    {
+      "code": "251270",
+      "amount_eok": 43.6,
+      "change_pct": -5.1724137931034475,
+      "amount_rank": 225,
+      "price": 30250.0
+    },
+    {
+      "code": "028670",
+      "amount_eok": 88.5,
+      "change_pct": -5.57244174265451,
+      "amount_rank": 180,
+      "price": 4660.0
+    },
+    {
+      "code": "103590",
+      "amount_eok": 112.0,
+      "change_pct": -3.724394785847296,
+      "amount_rank": 159,
+      "price": 51700.0
+    },
+    {
+      "code": "139130",
+      "amount_eok": 96.3,
+      "change_pct": -1.741935483870971,
+      "amount_rank": 172,
+      "price": 15230.0
+    },
+    {
+      "code": "486290",
+      "amount_eok": 220.0,
+      "change_pct": -1.2485811577752526,
+      "amount_rank": 111,
+      "price": 8700.0
+    },
+    {
+      "code": "449170",
+      "amount_eok": 86.6,
+      "change_pct": 0.008888493844727563,
+      "amount_rank": 184,
+      "price": 112515.0
+    },
+    {
+      "code": "282330",
+      "amount_eok": 54.5,
+      "change_pct": -5.823863636363635,
+      "amount_rank": 214,
+      "price": 132600.0
+    },
+    {
+      "code": "102780",
+      "amount_eok": 70.0,
+      "change_pct": -3.3464052287581647,
+      "amount_rank": 204,
+      "price": 18485.0
+    },
+    {
+      "code": "052690",
+      "amount_eok": 88.6,
+      "change_pct": -5.238095238095242,
+      "amount_rank": 178,
+      "price": 59700.0
+    },
+    {
+      "code": "385540",
+      "amount_eok": 1.64,
+      "change_pct": 0.15492230411717767,
+      "amount_rank": 291,
+      "price": 106670.0
+    },
+    {
+      "code": "011780",
+      "amount_eok": 63.3,
+      "change_pct": -2.7382256297918905,
+      "amount_rank": 209,
+      "price": 88800.0
+    },
+    {
+      "code": "383220",
+      "amount_eok": 43.4,
+      "change_pct": -4.801324503311255,
+      "amount_rank": 226,
+      "price": 57500.0
+    },
+    {
+      "code": "007810",
+      "amount_eok": 761.0,
+      "change_pct": 0.219780219780219,
+      "amount_rank": 46,
+      "price": 91200.0
+    },
+    {
+      "code": "395270",
+      "amount_eok": 468.0,
+      "change_pct": -1.0844200411805116,
+      "amount_rank": 71,
+      "price": 36030.0
+    },
+    {
+      "code": "017800",
+      "amount_eok": 83.9,
+      "change_pct": -3.588907014681897,
+      "amount_rank": 187,
+      "price": 59100.0
+    },
+    {
+      "code": "023530",
+      "amount_eok": 45.9,
+      "change_pct": -4.850746268656714,
+      "amount_rank": 223,
+      "price": 76500.0
+    },
+    {
+      "code": "472150",
+      "amount_eok": 847.0,
+      "change_pct": -3.11697836450312,
+      "amount_rank": 39,
+      "price": 13210.0
+    },
+    {
+      "code": "003690",
+      "amount_eok": 33.0,
+      "change_pct": -2.254428341384862,
+      "amount_rank": 241,
+      "price": 12140.0
+    },
+    {
+      "code": "006360",
+      "amount_eok": 650.0,
+      "change_pct": -12.914485165794066,
+      "amount_rank": 49,
+      "price": 24950.0
+    },
+    {
+      "code": "089860",
+      "amount_eok": 222.0,
+      "change_pct": 0.0,
+      "amount_rank": 109,
+      "price": 58600.0
+    },
+    {
+      "code": "004990",
+      "amount_eok": 26.9,
+      "change_pct": -4.054054054054057,
+      "amount_rank": 247,
+      "price": 21300.0
+    },
+    {
+      "code": "279570",
+      "amount_eok": 19.1,
+      "change_pct": -3.3707865168539297,
+      "amount_rank": 257,
+      "price": 5160.0
+    },
+    {
+      "code": "007340",
+      "amount_eok": 40.8,
+      "change_pct": -3.595206391478034,
+      "amount_rank": 229,
+      "price": 36200.0
+    },
+    {
+      "code": "002790",
+      "amount_eok": 23.3,
+      "change_pct": -2.6881720430107503,
+      "amount_rank": 250,
+      "price": 27150.0
+    },
+    {
+      "code": "457190",
+      "amount_eok": 136.0,
+      "change_pct": 1.775147928994092,
+      "amount_rank": 145,
+      "price": 68800.0
+    },
+    {
+      "code": "085620",
+      "amount_eok": 11.1,
+      "change_pct": -2.1019108280254772,
+      "amount_rank": 273,
+      "price": 15370.0
+    },
+    {
+      "code": "004370",
+      "amount_eok": 53.0,
+      "change_pct": -2.6354319180087793,
+      "amount_rank": 216,
+      "price": 332500.0
+    },
+    {
+      "code": "161510",
+      "amount_eok": 233.0,
+      "change_pct": -3.3333333333333326,
+      "amount_rank": 108,
+      "price": 20300.0
+    },
+    {
+      "code": "005440",
+      "amount_eok": 11.5,
+      "change_pct": -4.653204565408253,
+      "amount_rank": 272,
+      "price": 10860.0
+    },
+    {
+      "code": "004800",
+      "amount_eok": 21.8,
+      "change_pct": -0.3427592116538092,
+      "amount_rank": 252,
+      "price": 116300.0
+    },
+    {
+      "code": "018670",
+      "amount_eok": 16.4,
+      "change_pct": -1.869158878504673,
+      "amount_rank": 264,
+      "price": 210000.0
+    },
+    {
+      "code": "069960",
+      "amount_eok": 106.0,
+      "change_pct": -8.341810783316383,
+      "amount_rank": 165,
+      "price": 90100.0
+    },
+    {
+      "code": "214980",
+      "amount_eok": 29.6,
+      "change_pct": 0.004362811395663968,
+      "amount_rank": 245,
+      "price": 114610.0
+    },
+    {
+      "code": "426030",
+      "amount_eok": 319.0,
+      "change_pct": -1.8098881695114755,
+      "amount_rank": 95,
+      "price": 33365.0
+    },
+    {
+      "code": "001720",
+      "amount_eok": 11.6,
+      "change_pct": -1.2100259291270565,
+      "amount_rank": 271,
+      "price": 114300.0
+    },
+    {
+      "code": "020150",
+      "amount_eok": 94.7,
+      "change_pct": -5.158730158730163,
+      "amount_rank": 174,
+      "price": 35850.0
+    },
+    {
+      "code": "009970",
+      "amount_eok": 12.8,
+      "change_pct": -3.5916824196597363,
+      "amount_rank": 268,
+      "price": 153000.0
     },
     {
       "code": "030000",
-      "amount_eok": 3.79,
-      "change_pct": 0.37037037037037646,
-      "amount_rank": 225,
-      "price": 18970.0
+      "amount_eok": 34.6,
+      "change_pct": -3.224101479915431,
+      "amount_rank": 234,
+      "price": 18310.0
     },
     {
-      "code": "082740",
-      "amount_eok": 19.8,
-      "change_pct": -6.2893081761006275,
-      "amount_rank": 132,
-      "price": 22350.0
+      "code": "487240",
+      "amount_eok": 539.0,
+      "change_pct": -1.844311377245511,
+      "amount_rank": 62,
+      "price": 20490.0
     },
     {
-      "code": "000240",
-      "amount_eok": 0.79,
-      "change_pct": -0.05050505050504528,
-      "amount_rank": 274,
-      "price": 19790.0
+      "code": "011170",
+      "amount_eok": 38.9,
+      "change_pct": -5.666666666666664,
+      "amount_rank": 230,
+      "price": 42450.0
     },
     {
       "code": "014680",
-      "amount_eok": 13.7,
-      "change_pct": -3.4968979131415723,
-      "amount_rank": 159,
-      "price": 171100.0
-    },
-    {
-      "code": "375500",
-      "amount_eok": 23.0,
-      "change_pct": -5.247524752475252,
-      "amount_rank": 121,
-      "price": 47850.0
+      "amount_eok": 77.9,
+      "change_pct": -3.470588235294114,
+      "amount_rank": 195,
+      "price": 164100.0
     },
     {
       "code": "007070",
-      "amount_eok": 1.2,
-      "change_pct": 0.6833712984054774,
-      "amount_rank": 262,
-      "price": 22100.0
+      "amount_eok": 15.1,
+      "change_pct": -5.239179954441909,
+      "amount_rank": 265,
+      "price": 20800.0
+    },
+    {
+      "code": "000240",
+      "amount_eok": 18.5,
+      "change_pct": -5.998956703182056,
+      "amount_rank": 260,
+      "price": 18020.0
     },
     {
       "code": "450080",
-      "amount_eok": 10.5,
-      "change_pct": -4.096834264432026,
-      "amount_rank": 173,
-      "price": 25750.0
+      "amount_eok": 62.7,
+      "change_pct": -5.335968379446642,
+      "amount_rank": 211,
+      "price": 23950.0
+    },
+    {
+      "code": "375500",
+      "amount_eok": 110.0,
+      "change_pct": -7.234042553191489,
+      "amount_rank": 162,
+      "price": 43600.0
+    },
+    {
+      "code": "082740",
+      "amount_eok": 155.0,
+      "change_pct": -7.126436781609192,
+      "amount_rank": 137,
+      "price": 20200.0
     },
     {
       "code": "020560",
-      "amount_eok": 0.97,
-      "change_pct": -2.166476624857472,
-      "amount_rank": 267,
-      "price": 8580.0
-    },
-    {
-      "code": "489790",
-      "amount_eok": 18.5,
-      "change_pct": -8.299866131191436,
-      "amount_rank": 136,
-      "price": 34250.0
+      "amount_eok": 5.6,
+      "change_pct": -3.769140164899887,
+      "amount_rank": 282,
+      "price": 8170.0
     },
     {
       "code": "139480",
-      "amount_eok": 5.34,
-      "change_pct": -0.7727975270479082,
-      "amount_rank": 215,
-      "price": 64200.0
-    },
-    {
-      "code": "005850",
-      "amount_eok": 3.57,
-      "change_pct": -3.03830911492734,
-      "amount_rank": 230,
-      "price": 36700.0
-    },
-    {
-      "code": "278540",
-      "amount_eok": 0.22,
-      "change_pct": -4.002106371774616,
-      "amount_rank": 285,
-      "price": 27345.0
+      "amount_eok": 76.4,
+      "change_pct": -3.2915360501567403,
+      "amount_rank": 196,
+      "price": 61700.0
     },
     {
       "code": "112610",
-      "amount_eok": 19.9,
-      "change_pct": -4.945717732207477,
-      "amount_rank": 131,
-      "price": 39400.0
+      "amount_eok": 90.0,
+      "change_pct": -1.1479591836734748,
+      "amount_rank": 177,
+      "price": 38750.0
     },
     {
-      "code": "081660",
-      "amount_eok": 1.31,
-      "change_pct": -0.31948881789137795,
-      "amount_rank": 260,
-      "price": 31200.0
-    },
-    {
-      "code": "336260",
-      "amount_eok": 9.58,
-      "change_pct": -3.3203125,
+      "code": "489790",
+      "amount_eok": 88.6,
+      "change_pct": -1.6742770167427756,
       "amount_rank": 179,
-      "price": 24750.0
+      "price": 32300.0
     },
     {
-      "code": "294870",
-      "amount_eok": 25.7,
-      "change_pct": -0.8032128514056214,
-      "amount_rank": 117,
-      "price": 24700.0
+      "code": "281820",
+      "amount_eok": 335.0,
+      "change_pct": 1.8679950186799577,
+      "amount_rank": 92,
+      "price": 81800.0
+    },
+    {
+      "code": "181710",
+      "amount_eok": 342.0,
+      "change_pct": -18.300653594771244,
+      "amount_rank": 91,
+      "price": 50000.0
     },
     {
       "code": "284430",
-      "amount_eok": 10.3,
-      "change_pct": -1.398801027690555,
-      "amount_rank": 174,
-      "price": 17270.0
-    },
-    {
-      "code": "000120",
-      "amount_eok": 1.97,
-      "change_pct": 0.0,
-      "amount_rank": 252,
-      "price": 71300.0
+      "amount_eok": 127.0,
+      "change_pct": -0.4970760233918181,
+      "amount_rank": 149,
+      "price": 17015.0
     },
     {
       "code": "477080",
-      "amount_eok": 0.66,
-      "change_pct": 0.013860654222885849,
+      "amount_eok": 8.48,
+      "change_pct": 0.0,
       "amount_rank": 276,
       "price": 108235.0
     },
     {
-      "code": "139260",
-      "amount_eok": 34.9,
-      "change_pct": -5.795525170913606,
-      "amount_rank": 98,
-      "price": 90945.0
+      "code": "278540",
+      "amount_eok": 7.66,
+      "change_pct": -3.131949592290584,
+      "amount_rank": 277,
+      "price": 26135.0
     },
     {
       "code": "441640",
-      "amount_eok": 20.7,
-      "change_pct": -2.09698558322412,
-      "amount_rank": 127,
-      "price": 11205.0
+      "amount_eok": 101.0,
+      "change_pct": -0.08952551477170445,
+      "amount_rank": 171,
+      "price": 11160.0
     },
     {
-      "code": "462870",
-      "amount_eok": 2.93,
-      "change_pct": 1.1111111111111072,
+      "code": "081660",
+      "amount_eok": 38.0,
+      "change_pct": -3.8772213247172838,
+      "amount_rank": 231,
+      "price": 29750.0
+    },
+    {
+      "code": "005850",
+      "amount_eok": 34.3,
+      "change_pct": -5.33707865168539,
       "amount_rank": 236,
-      "price": 27300.0
+      "price": 33700.0
     },
     {
       "code": "483650",
-      "amount_eok": 28.1,
-      "change_pct": -3.427265803503432,
-      "amount_rank": 110,
-      "price": 126800.0
-    },
-    {
-      "code": "281820",
-      "amount_eok": 39.9,
-      "change_pct": -7.0574162679425845,
-      "amount_rank": 88,
-      "price": 77700.0
-    },
-    {
-      "code": "051600",
-      "amount_eok": 5.78,
-      "change_pct": -1.2931034482758674,
-      "amount_rank": 210,
-      "price": 34350.0
+      "amount_eok": 167.0,
+      "change_pct": -0.16012810248198228,
+      "amount_rank": 131,
+      "price": 124700.0
     },
     {
       "code": "610063",
-      "amount_eok": null,
-      "change_pct": 0.0,
-      "amount_rank": 296,
-      "price": 56135.0
+      "amount_eok": 0.56,
+      "change_pct": 0.008905512512247249,
+      "amount_rank": 293,
+      "price": 56150.0
     },
     {
-      "code": "006280",
-      "amount_eok": 4.79,
-      "change_pct": -0.15151515151514694,
-      "amount_rank": 219,
-      "price": 131800.0
+      "code": "000120",
+      "amount_eok": 32.5,
+      "change_pct": -3.290414878397707,
+      "amount_rank": 242,
+      "price": 67600.0
     },
     {
-      "code": "204320",
-      "amount_eok": 8.9,
-      "change_pct": -2.1180030257186067,
-      "amount_rank": 184,
-      "price": 32350.0
+      "code": "294870",
+      "amount_eok": 19.0,
+      "change_pct": -4.1322314049586755,
+      "amount_rank": 258,
+      "price": 23200.0
     },
     {
-      "code": "329200",
-      "amount_eok": 9.96,
-      "change_pct": 0.0,
-      "amount_rank": 176,
-      "price": 3795.0
+      "code": "139260",
+      "amount_eok": 483.0,
+      "change_pct": -1.9041180778547662,
+      "amount_rank": 70,
+      "price": 87065.0
     },
     {
-      "code": "008770",
-      "amount_eok": 11.4,
-      "change_pct": -1.037613488975353,
-      "amount_rank": 170,
-      "price": 38150.0
+      "code": "462870",
+      "amount_eok": 21.4,
+      "change_pct": -7.622504537205077,
+      "amount_rank": 253,
+      "price": 25450.0
+    },
+    {
+      "code": "336260",
+      "amount_eok": 123.0,
+      "change_pct": -5.41666666666667,
+      "amount_rank": 152,
+      "price": 22700.0
+    },
+    {
+      "code": "051600",
+      "amount_eok": 70.5,
+      "change_pct": -3.524229074889873,
+      "amount_rank": 203,
+      "price": 32850.0
     },
     {
       "code": "395400",
-      "amount_eok": 0.31,
-      "change_pct": 0.504032258064524,
-      "amount_rank": 283,
-      "price": 4985.0
+      "amount_eok": 6.51,
+      "change_pct": -0.10193679918450993,
+      "amount_rank": 280,
+      "price": 4900.0
     },
     {
-      "code": "073240",
-      "amount_eok": 2.89,
-      "change_pct": -1.7045454545454586,
-      "amount_rank": 238,
-      "price": 5190.0
+      "code": "329200",
+      "amount_eok": 129.0,
+      "change_pct": -2.1361815754339153,
+      "amount_rank": 147,
+      "price": 3665.0
     },
     {
       "code": "379780",
-      "amount_eok": 4.13,
-      "change_pct": -2.6494724501758493,
-      "amount_rank": 223,
-      "price": 20760.0
-    },
-    {
-      "code": "305720",
-      "amount_eok": 68.5,
-      "change_pct": -2.748414376321351,
-      "amount_rank": 58,
-      "price": 11500.0
+      "amount_eok": 47.5,
+      "change_pct": -0.4109257916364517,
+      "amount_rank": 220,
+      "price": 20600.0
     },
     {
       "code": "453850",
-      "amount_eok": 4.58,
-      "change_pct": 0.5007153075822668,
-      "amount_rank": 221,
-      "price": 7025.0
+      "amount_eok": 68.1,
+      "change_pct": 0.5689900426742556,
+      "amount_rank": 208,
+      "price": 7070.0
+    },
+    {
+      "code": "008770",
+      "amount_eok": 94.3,
+      "change_pct": -2.645502645502651,
+      "amount_rank": 175,
+      "price": 36800.0
     },
     {
       "code": "368590",
-      "amount_eok": 8.85,
-      "change_pct": -3.8937073260749244,
-      "amount_rank": 185,
-      "price": 26040.0
+      "amount_eok": 87.6,
+      "change_pct": -1.0048309178743997,
+      "amount_rank": 183,
+      "price": 25615.0
     },
     {
-      "code": "001800",
-      "amount_eok": 2.18,
-      "change_pct": -0.21141649048626032,
-      "amount_rank": 248,
-      "price": 23600.0
+      "code": "006280",
+      "amount_eok": 32.2,
+      "change_pct": -6.230769230769228,
+      "amount_rank": 243,
+      "price": 121900.0
+    },
+    {
+      "code": "073240",
+      "amount_eok": 33.7,
+      "change_pct": -3.131115459882583,
+      "amount_rank": 238,
+      "price": 4950.0
+    },
+    {
+      "code": "204320",
+      "amount_eok": 96.3,
+      "change_pct": -4.416403785488954,
+      "amount_rank": 173,
+      "price": 30300.0
+    },
+    {
+      "code": "305720",
+      "amount_eok": 405.0,
+      "change_pct": -3.285151116951379,
+      "amount_rank": 80,
+      "price": 11040.0
     },
     {
       "code": "456600",
-      "amount_eok": 8.53,
-      "change_pct": -4.407841317712558,
-      "amount_rank": 188,
-      "price": 41205.0
+      "amount_eok": 107.0,
+      "change_pct": -1.2763868433971481,
+      "amount_rank": 163,
+      "price": 40220.0
+    },
+    {
+      "code": "001800",
+      "amount_eok": 19.4,
+      "change_pct": -1.5118790496760237,
+      "amount_rank": 255,
+      "price": 22800.0
     },
     {
       "code": "006040",
-      "amount_eok": 1.19,
-      "change_pct": -0.7836990595611271,
-      "amount_rank": 263,
-      "price": 31650.0
-    },
-    {
-      "code": "439260",
-      "amount_eok": 1.1,
-      "change_pct": -2.4128686327077764,
-      "amount_rank": 264,
-      "price": 36400.0
-    },
-    {
-      "code": "103140",
-      "amount_eok": 5.05,
-      "change_pct": -2.982107355864816,
-      "amount_rank": 217,
-      "price": 48800.0
-    },
-    {
-      "code": "011210",
-      "amount_eok": 2.35,
-      "change_pct": 0.2012072434607548,
-      "amount_rank": 243,
-      "price": 49800.0
+      "amount_eok": 9.61,
+      "change_pct": -2.7070063694267565,
+      "amount_rank": 274,
+      "price": 30550.0
     },
     {
       "code": "487340",
-      "amount_eok": 4.78,
-      "change_pct": 0.009368559115618957,
-      "amount_rank": 220,
-      "price": 106750.0
+      "amount_eok": 23.1,
+      "change_pct": 0.009367681498839708,
+      "amount_rank": 251,
+      "price": 106760.0
     },
     {
-      "code": "105190",
-      "amount_eok": 12.4,
-      "change_pct": -4.131054131054135,
-      "amount_rank": 165,
-      "price": 77395.0
-    },
-    {
-      "code": "280360",
-      "amount_eok": 5.35,
-      "change_pct": 2.582496413199431,
-      "amount_rank": 214,
-      "price": 143000.0
+      "code": "439260",
+      "amount_eok": 14.7,
+      "change_pct": -4.5329670329670275,
+      "amount_rank": 266,
+      "price": 34750.0
     },
     {
       "code": "157450",
-      "amount_eok": 2.11,
-      "change_pct": 0.0044146212254903006,
-      "amount_rank": 250,
-      "price": 113265.0
+      "amount_eok": 41.9,
+      "change_pct": -0.008828462964594053,
+      "amount_rank": 228,
+      "price": 113260.0
     },
     {
       "code": "700026",
       "amount_eok": null,
       "change_pct": 0.0,
       "amount_rank": 297,
-      "price": 108390.0
+      "price": 108420.0
     },
     {
       "code": "475630",
-      "amount_eok": 34.8,
-      "change_pct": 0.012450199203195567,
-      "amount_rank": 99,
-      "price": 1084455.0
+      "amount_eok": 634.0,
+      "change_pct": 0.006454855203763543,
+      "amount_rank": 50,
+      "price": 1084525.0
     },
     {
-      "code": "001120",
-      "amount_eok": 3.7,
-      "change_pct": -2.8803545051698687,
-      "amount_rank": 227,
-      "price": 32875.0
+      "code": "011210",
+      "amount_eok": 29.0,
+      "change_pct": -3.367346938775506,
+      "amount_rank": 246,
+      "price": 47350.0
     },
     {
-      "code": "023590",
-      "amount_eok": 1.34,
-      "change_pct": -0.5076142131979711,
-      "amount_rank": 259,
-      "price": 29400.0
+      "code": "105190",
+      "amount_eok": 210.0,
+      "change_pct": -3.2441624697494897,
+      "amount_rank": 113,
+      "price": 73965.0
     },
     {
-      "code": "294400",
-      "amount_eok": 5.8,
-      "change_pct": -4.132855255708623,
-      "amount_rank": 209,
-      "price": 101600.0
+      "code": "280360",
+      "amount_eok": 34.6,
+      "change_pct": -4.912280701754391,
+      "amount_rank": 233,
+      "price": 135500.0
     },
     {
-      "code": "292150",
-      "amount_eok": 9.77,
-      "change_pct": -4.304267161410014,
-      "amount_rank": 178,
-      "price": 25790.0
+      "code": "103140",
+      "amount_eok": 75.1,
+      "change_pct": -5.882352941176472,
+      "amount_rank": 199,
+      "price": 44000.0
     },
     {
       "code": "415640",
-      "amount_eok": 0.23,
-      "change_pct": 0.0,
-      "amount_rank": 284,
-      "price": 9990.0
+      "amount_eok": 2.49,
+      "change_pct": -0.4004004004004025,
+      "amount_rank": 288,
+      "price": 9950.0
+    },
+    {
+      "code": "023590",
+      "amount_eok": 9.09,
+      "change_pct": -2.936096718480141,
+      "amount_rank": 275,
+      "price": 28100.0
     },
     {
       "code": "438080",
-      "amount_eok": 6.65,
-      "change_pct": -1.0494752623688153,
-      "amount_rank": 202,
+      "amount_eok": 50.3,
+      "change_pct": 0.2277904328018332,
+      "amount_rank": 217,
       "price": 13200.0
     },
     {
-      "code": "192080",
-      "amount_eok": 1.85,
-      "change_pct": -0.17605633802817433,
-      "amount_rank": 253,
-      "price": 56700.0
+      "code": "001120",
+      "amount_eok": 33.1,
+      "change_pct": -4.601226993865026,
+      "amount_rank": 240,
+      "price": 31100.0
     },
     {
-      "code": "007310",
-      "amount_eok": 0.67,
-      "change_pct": -0.6688963210702337,
-      "amount_rank": 275,
-      "price": 297000.0
-    },
-    {
-      "code": "448330",
-      "amount_eok": 14.1,
-      "change_pct": -1.1187072715972635,
-      "amount_rank": 157,
-      "price": 15910.0
-    },
-    {
-      "code": "465580",
-      "amount_eok": 41.8,
-      "change_pct": -4.099821746880572,
-      "amount_rank": 86,
-      "price": 21520.0
+      "code": "294400",
+      "amount_eok": 160.0,
+      "change_pct": -3.4323004881936847,
+      "amount_rank": 135,
+      "price": 96925.0
     },
     {
       "code": "436140",
-      "amount_eok": 0.0010966,
-      "change_pct": 0.09584227100543075,
-      "amount_rank": 295,
-      "price": 109660.0
+      "amount_eok": 0.13,
+      "change_pct": 0.23695602642970215,
+      "amount_rank": 296,
+      "price": 109985.0
+    },
+    {
+      "code": "292150",
+      "amount_eok": 92.3,
+      "change_pct": -2.854892695412481,
+      "amount_rank": 176,
+      "price": 24670.0
     },
     {
       "code": "469830",
-      "amount_eok": 34.3,
-      "change_pct": 0.018239854081159024,
-      "amount_rank": 100,
+      "amount_eok": 148.0,
+      "change_pct": 0.0,
+      "amount_rank": 140,
       "price": 54835.0
     },
     {
-      "code": "000080",
-      "amount_eok": 1.99,
-      "change_pct": -0.18303843807199183,
-      "amount_rank": 251,
-      "price": 16360.0
-    },
-    {
-      "code": "069620",
-      "amount_eok": 0.9,
-      "change_pct": -1.4014014014014031,
-      "amount_rank": 269,
-      "price": 98500.0
-    },
-    {
-      "code": "300720",
-      "amount_eok": 1.0,
-      "change_pct": -0.2582311168495832,
-      "amount_rank": 265,
-      "price": 15450.0
-    },
-    {
-      "code": "229640",
-      "amount_eok": 5.29,
-      "change_pct": -5.161290322580648,
-      "amount_rank": 216,
-      "price": 36750.0
-    },
-    {
-      "code": "006120",
-      "amount_eok": 1.52,
-      "change_pct": -3.129657228017879,
-      "amount_rank": 257,
-      "price": 65000.0
-    },
-    {
-      "code": "446770",
-      "amount_eok": 13.9,
-      "change_pct": -4.853627492575308,
-      "amount_rank": 158,
-      "price": 56065.0
-    },
-    {
-      "code": "012630",
-      "amount_eok": 0.18,
-      "change_pct": -1.7777777777777781,
-      "amount_rank": 287,
-      "price": 19890.0
-    },
-    {
-      "code": "356540",
-      "amount_eok": 0.02,
-      "change_pct": 0.12947777298231156,
-      "amount_rank": 291,
-      "price": 104400.0
-    },
-    {
-      "code": "232080",
-      "amount_eok": 163.0,
-      "change_pct": -4.900260190806593,
-      "amount_rank": 28,
-      "price": 10965.0
-    },
-    {
-      "code": "152100",
-      "amount_eok": 8.98,
-      "change_pct": -4.135684876789769,
-      "amount_rank": 183,
-      "price": 78000.0
-    },
-    {
-      "code": "071970",
-      "amount_eok": 6.27,
-      "change_pct": -5.499276410998554,
+      "code": "465580",
+      "amount_eok": 69.4,
+      "change_pct": -0.30437836572231314,
       "amount_rank": 206,
-      "price": 32650.0
+      "price": 21290.0
     },
     {
-      "code": "298020",
-      "amount_eok": 1.76,
-      "change_pct": -2.851711026615966,
-      "amount_rank": 255,
-      "price": 255500.0
+      "code": "448330",
+      "amount_eok": 123.0,
+      "change_pct": -0.9496676163342821,
+      "amount_rank": 151,
+      "price": 15645.0
     },
     {
-      "code": "001390",
-      "amount_eok": 0.8,
-      "change_pct": -2.848101265822789,
-      "amount_rank": 272,
-      "price": 3070.0
+      "code": "192080",
+      "amount_eok": 18.2,
+      "change_pct": -2.4955436720142554,
+      "amount_rank": 261,
+      "price": 54700.0
     },
     {
       "code": "001430",
-      "amount_eok": 2.84,
-      "change_pct": -3.6106750392464693,
-      "amount_rank": 240,
-      "price": 30700.0
+      "amount_eok": 78.4,
+      "change_pct": 5.766062602965394,
+      "amount_rank": 194,
+      "price": 32100.0
     },
     {
-      "code": "000815",
-      "amount_eok": 3.01,
-      "change_pct": -0.4137931034482789,
-      "amount_rank": 235,
-      "price": 361000.0
+      "code": "356540",
+      "amount_eok": 12.9,
+      "change_pct": 0.07173944234539764,
+      "amount_rank": 267,
+      "price": 104620.0
     },
     {
-      "code": "442580",
-      "amount_eok": 21.3,
-      "change_pct": -5.760709010339737,
-      "amount_rank": 125,
-      "price": 66990.0
+      "code": "007310",
+      "amount_eok": 19.9,
+      "change_pct": -4.915254237288136,
+      "amount_rank": 254,
+      "price": 280500.0
     },
     {
-      "code": "034230",
-      "amount_eok": 26.1,
-      "change_pct": 0.08643042350906516,
-      "amount_rank": 116,
-      "price": 11580.0
+      "code": "000080",
+      "amount_eok": 12.0,
+      "change_pct": -3.4734917733089565,
+      "amount_rank": 270,
+      "price": 15840.0
     },
     {
-      "code": "120110",
-      "amount_eok": 6.39,
-      "change_pct": -4.3010752688172005,
-      "amount_rank": 204,
-      "price": 35600.0
+      "code": "001390",
+      "amount_eok": 5.95,
+      "change_pct": -1.967213114754096,
+      "amount_rank": 281,
+      "price": 2990.0
     },
     {
-      "code": "330590",
-      "amount_eok": 0.1,
-      "change_pct": -1.5957446808510634,
-      "amount_rank": 288,
-      "price": 3700.0
+      "code": "300720",
+      "amount_eok": 7.51,
+      "change_pct": -1.9710906701708275,
+      "amount_rank": 278,
+      "price": 14920.0
+    },
+    {
+      "code": "006120",
+      "amount_eok": 23.6,
+      "change_pct": 0.0,
+      "amount_rank": 249,
+      "price": 63000.0
+    },
+    {
+      "code": "069620",
+      "amount_eok": 33.2,
+      "change_pct": -5.198776758409784,
+      "amount_rank": 239,
+      "price": 93000.0
+    },
+    {
+      "code": "232080",
+      "amount_eok": 1314.0,
+      "change_pct": -1.3059701492537323,
+      "amount_rank": 27,
+      "price": 10580.0
+    },
+    {
+      "code": "229640",
+      "amount_eok": 47.0,
+      "change_pct": -4.520547945205477,
+      "amount_rank": 221,
+      "price": 34850.0
+    },
+    {
+      "code": "446770",
+      "amount_eok": 169.0,
+      "change_pct": -3.0912881878342846,
+      "amount_rank": 130,
+      "price": 53450.0
     },
     {
       "code": "451540",
-      "amount_eok": 0.02,
-      "change_pct": 0.14658726523133492,
-      "amount_rank": 292,
-      "price": 54655.0
+      "amount_eok": 12.2,
+      "change_pct": 0.05479952507079222,
+      "amount_rank": 269,
+      "price": 54775.0
     },
     {
       "code": "000480",
-      "amount_eok": 0.03,
-      "change_pct": -1.2804097311139517,
+      "amount_eok": 1.89,
+      "change_pct": 1.040312093628093,
       "amount_rank": 290,
-      "price": 3855.0
+      "price": 3885.0
     },
     {
-      "code": "449180",
-      "amount_eok": 12.3,
-      "change_pct": -3.216019417475724,
-      "amount_rank": 167,
-      "price": 15950.0
+      "code": "000815",
+      "amount_eok": 75.3,
+      "change_pct": -1.9525801952580246,
+      "amount_rank": 198,
+      "price": 351500.0
     },
     {
-      "code": "226490",
-      "amount_eok": 15.1,
-      "change_pct": -3.6159365558912415,
-      "amount_rank": 153,
-      "price": 51045.0
+      "code": "152100",
+      "amount_eok": 466.0,
+      "change_pct": -3.350214257888584,
+      "amount_rank": 72,
+      "price": 74430.0
+    },
+    {
+      "code": "012630",
+      "amount_eok": 6.79,
+      "change_pct": -4.100461301896463,
+      "amount_rank": 279,
+      "price": 18710.0
     },
     {
       "code": "446720",
-      "amount_eok": 4.57,
-      "change_pct": -1.1922503725782407,
-      "amount_rank": 222,
-      "price": 13260.0
-    },
-    {
-      "code": "001740",
-      "amount_eok": 2.92,
-      "change_pct": -3.018867924528301,
-      "amount_rank": 237,
-      "price": 5140.0
-    },
-    {
-      "code": "475150",
-      "amount_eok": 15.4,
-      "change_pct": -4.3338683788122,
-      "amount_rank": 152,
-      "price": 29800.0
+      "amount_eok": 57.1,
+      "change_pct": 0.45180722891566827,
+      "amount_rank": 212,
+      "price": 13340.0
     },
     {
       "code": "530031",
-      "amount_eok": 0.98,
-      "change_pct": 1.6161616161616266,
-      "amount_rank": 266,
-      "price": 2515.0
+      "amount_eok": 4.0,
+      "change_pct": 1.5841584158415856,
+      "amount_rank": 284,
+      "price": 2565.0
     },
     {
-      "code": "005070",
-      "amount_eok": 2.85,
-      "change_pct": -4.416403785488954,
-      "amount_rank": 239,
-      "price": 30300.0
+      "code": "298020",
+      "amount_eok": 31.5,
+      "change_pct": -6.483300589390961,
+      "amount_rank": 244,
+      "price": 238000.0
     },
     {
-      "code": "479520",
-      "amount_eok": 2.29,
-      "change_pct": 0.009339248190509686,
-      "amount_rank": 246,
-      "price": 107085.0
+      "code": "449180",
+      "amount_eok": 101.0,
+      "change_pct": -1.2268008807801212,
+      "amount_rank": 169,
+      "price": 15700.0
+    },
+    {
+      "code": "442580",
+      "amount_eok": 238.0,
+      "change_pct": -3.736762481089262,
+      "amount_rank": 107,
+      "price": 63630.0
+    },
+    {
+      "code": "071970",
+      "amount_eok": 49.4,
+      "change_pct": -5.379746835443033,
+      "amount_rank": 218,
+      "price": 29900.0
+    },
+    {
+      "code": "252670",
+      "amount_eok": 16882.0,
+      "change_pct": 6.060606060606055,
+      "amount_rank": 4,
+      "price": 140.0
+    },
+    {
+      "code": "120110",
+      "amount_eok": 62.8,
+      "change_pct": -7.232267037552154,
+      "amount_rank": 210,
+      "price": 33350.0
     },
     {
       "code": "760009",
-      "amount_eok": 0.32,
-      "change_pct": 0.02775850104095312,
-      "amount_rank": 282,
-      "price": 108105.0
+      "amount_eok": 0.22,
+      "change_pct": 0.0046249190639224835,
+      "amount_rank": 295,
+      "price": 108115.0
+    },
+    {
+      "code": "034230",
+      "amount_eok": 82.8,
+      "change_pct": -4.9557522123893865,
+      "amount_rank": 189,
+      "price": 10740.0
+    },
+    {
+      "code": "479520",
+      "amount_eok": 3.93,
+      "change_pct": -0.004668970025212271,
+      "amount_rank": 285,
+      "price": 107085.0
+    },
+    {
+      "code": "226490",
+      "amount_eok": 275.0,
+      "change_pct": -2.6691992402279263,
+      "amount_rank": 100,
+      "price": 48680.0
     },
     {
       "code": "496020",
-      "amount_eok": 0.61,
-      "change_pct": 0.0,
-      "amount_rank": 277,
-      "price": 52900.0
+      "amount_eok": 1.49,
+      "change_pct": 0.018905378580202914,
+      "amount_rank": 292,
+      "price": 52905.0
     },
     {
-      "code": "390390",
-      "amount_eok": 99.1,
-      "change_pct": -5.305882352941172,
-      "amount_rank": 43,
-      "price": 40245.0
+      "code": "330590",
+      "amount_eok": 5.41,
+      "change_pct": -5.540166204986152,
+      "amount_rank": 283,
+      "price": 3410.0
     },
     {
       "code": "402970",
-      "amount_eok": 8.0,
-      "change_pct": -1.2760241773002057,
-      "amount_rank": 193,
-      "price": 14700.0
+      "amount_eok": 71.3,
+      "change_pct": 0.27155465037338455,
+      "amount_rank": 201,
+      "price": 14770.0
+    },
+    {
+      "code": "001740",
+      "amount_eok": 42.9,
+      "change_pct": -4.681274900398402,
+      "amount_rank": 227,
+      "price": 4785.0
+    },
+    {
+      "code": "005070",
+      "amount_eok": 18.8,
+      "change_pct": -2.8619528619528656,
+      "amount_rank": 259,
+      "price": 28850.0
     },
     {
       "code": "005300",
-      "amount_eok": 0.58,
-      "change_pct": -1.0348071495766664,
-      "amount_rank": 278,
-      "price": 105200.0
+      "amount_eok": 17.6,
+      "change_pct": -2.186311787072248,
+      "amount_rank": 262,
+      "price": 102900.0
     },
     {
       "code": "030190",
-      "amount_eok": 0.43,
-      "change_pct": 0.0,
-      "amount_rank": 281,
-      "price": 16670.0
+      "amount_eok": 16.9,
+      "change_pct": -1.7000607164541548,
+      "amount_rank": 263,
+      "price": 16190.0
     },
     {
-      "code": "487230",
-      "amount_eok": 29.9,
-      "change_pct": -5.747922437673125,
-      "amount_rank": 108,
-      "price": 13610.0
+      "code": "475150",
+      "amount_eok": 106.0,
+      "change_pct": -4.159445407279028,
+      "amount_rank": 166,
+      "price": 27650.0
     }
   ]
 }
